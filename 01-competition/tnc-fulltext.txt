@@ -1,0 +1,480 @@
+
+===== PAGE 1 =====
+ 
+Page 1 of 11 
+ 
+GLOBAL FINTECH HACKCELERATOR 2026 
+TERMS AND CONDITIONS 
+These are the terms and conditions (“Terms and Conditions”) governing your participation in the Global Fintech Hackcelerator 2026 organised 
+by GFTN SERVICES and the Monetary Authority of Singapore (“ MAS”). Please read these Terms and Conditions carefully before registering for 
+this Competition (defined below), as they will form a legally binding agreement between GFTN SERVICES and you. If you do not or if any member 
+of your team does not accept these Terms and Conditions, you and/or your team will be disqualified and will not be eligible to participate in this 
+Competition. By registering for and participating in this Competition, you and all members of your team confirm that you have read, understood, 
+fully agree to and will unconditionally abide by these Terms and Conditions.  
+In these Terms and Conditions, “we” , “our” , and “us” refers to GFTN SERVICES, and “you” , “your” or "yourself" refers to you as a participant of 
+and/or applicant for registration for the Competition, and in relation to team shall include a reference to each member of your team.   
+By continuing the registration as a Participant, you hereby agree that you or the entity represented by you have read and agr eed to be legally 
+bound by these Terms and Conditions, including GFTN SERVICES’s policies referred to herein, all as may be modifie d, added to, or updated 
+from time to time, which will govern your participation in the Competition.  
+If you do not accept these Terms and Conditions, you will not be able to submit your Solution and participate in the Competition.  
+If you have any questions about these Terms and Conditions, please contact the Organisers at gfh@gftn.com.  
+1. Definitions and Interpretation  
+1.1. The following terms shall have the meanings ascribed below:   
+(a) “Confidential Information” means, in whatever form:   
+(i) all non-public information disclosed, furnished or made available directly or indirectly by GFTN SERVICES to the Participant 
+in relation to or in connection with the Competition or GFTN SERVICES;  
+(ii) all information, documents, drawings, manuals, materials, optical, flash and other storage media of GFTN SERVICES 
+stamped or marked as “Confidential” or “restricted” or with other similar indicia and all other information designated by GFTN 
+SERVICES as con fidential either verbally or in writing, or should be reasonably understood as confidential given its nature 
+and the circumstances in which it was disclosed; and  
+(iii) all copies and reproductions of all the types of information listed in Clauses 1.1(a)(i) and 1.1(a)(ii) and all communications 
+between the Parties relating to such information.  
+(b) “Competition” means the Global Fintech Hackcelerator 2026 organised by GFTN SERVICES and all activities associated therewith;  
+(c) “GFTN SERVICES” means GFTN SERVICES PTE. LTD., the operating arm of Global Finance and Technology Network Limited, a not-
+for-profit organisation that engages with leaders from government, businesses, academia, and civil society to foster international 
+collaborations on technology innovation, application and adoption;   
+(d) “IP” means all (a) copyright, trademarks and service rights, patents, trade secrets, utility innovations, geographical indicatio ns, 
+domain names, layout design rights, registered designs, design rights, database rights, trade or business names and all other  
+intellectual property rights or proprietary rights, (b) processes, methodologies, procedures, and trade secrets, (c) software, code, 
+tools, scripts and machine -readable texts and files, and (d) literary work or other work of authorship, including documen tation, 
+reports, drawings, charts, graphics and other written documentation;  
+(e) “Organisers” means GFTN SERVICES and the MAS;   
+(f) “Party” means you or GFTN SERVICES, and “Parties” means you and GFTN SERVICES collectively;  
+(g) “Participants” means all persons of the registered teams individually and collectively, that are participating in the Competition. 
+“Participant” means each of the Participants;  
+(h) “Portal” means the website for the uploading of the Projects and Solutions, and participating in the Competition, accessible  
+at https://forms.gftn.co/gfh2026 and https://hackcelerator.gftn.co;  
+===== PAGE 2 =====
+ 
+Page 2 of 11 
+ 
+(i) “Rules” mean the rules, regulations and decisions prescribed by GFTN SERVICES for the Competition including these Terms and 
+Conditions set out herein and those accessible at the Website, or such other website(s) as may be specified by us from time t o 
+time; and  
+(j) “Website” refers to the website for the Competition accessible  at  https://hackcelerator.gftn.co and 
+https://www.fintechfestival.sg/global-fintech-hackcelerator.  
+1.2. Unless the contrary intention appears, in these Terms and Conditions:  
+(a) reference to “Clauses” or “Clause” shall refer to the clauses or clause of these Terms and Conditions and shall include all sub -
+clauses of the respective clauses being referred to;  
+(b) headings are inserted for convenience only and do not affect the interpretation of these Terms and Conditions;  
+(c) words importing the singular include the plural and vice versa;  
+(d) a gender includes all genders;  
+(e) references to persons are to be construed as references to an individual or a body corporate as the context requires;  
+(f) unless otherwise stated, one word or provision does not limit the effect of another;  
+(g) the words, “include” , “includes” , and “including” are to be read as if they are followed by the phrase “without limitation”; and  
+(h) any reference to any Act of Parliament includes any amendment, replacement or re -enactment to that Act and includes any 
+subsidiary legislation made under that Act.  
+2. About the GLOBAL FINTECH HACKCELERATOR  
+2.1. This Competition is organised by GFTN SERVICES in cooperation with the MAS.  
+2.2. For this Competition, the Organisers have identified and published 3 Problem Statements, details of which are available on th e Global 
+FinTech Hackcelerator website  
+2.3. Individuals, entities and teams are invited to register as Participants, and develop technological solutions to these Problem Statements 
+(“Solutions”).   
+2.4. Participants are invited to submit the Solutions through the Portal.  
+2.5. The Portal is managed and provided by GFTN SERVICES.   
+2.6. The use of the Portal is subject to these Terms and Conditions and GFTN SERVICES’ Personal Data Protection Policy.  
+3. Hackcelerator Objectives  
+3.1. The Competition seeks technology solutions to address the Problem Statements posted by the Organisers.   
+3.2. The main objective of the Competition is to involve developers, innovators and startups, in highlighting the potential for in novative 
+technologies to achieve those outcomes.   
+4. Target Groups  
+4.1. The Competition is open to interested parties with a market-ready solution that can address any of the published Problem Statements. 
+Participants must be aged 18 and above at the time of registration.   
+4.2. The expected target groups for this Competition are professionals, entrepreneurs, innovators, developers and fintech entities.  
+5. Team Participation  
+5.1. Applications are open to all interested parties who can demonstrate, at GFTN SERVICES' request and to GFTN SERVICES’ satisfaction, 
+their ability and track record of developing scalable technology solutions for the said Problem Statements.  
+===== PAGE 3 =====
+ 
+Page 3 of 11 
+ 
+5.2. You must register and agree to these Terms and Conditions to participate in this Competition. Participation in this Competiti on will 
+require you to be in team of not more than 10 members. Each Participant is to submit their team name, along with the other required 
+details in the registration form.   
+5.3. Each Participant shall ensure that all team members agree to, and complies with, the Rules (including these Terms and Conditions).  
+5.4. GFTN SERVICES may, but is not obliged to, require you to take additional steps to confirm your team details (including the de tails 
+required under Clause 5.2).  
+5.5. Any breach of these Terms and Conditions may disqualify you from participating in this Competition.   
+5.6. When exercising its rights of disqualification, GFTN SERVICES may at its sole and absolute discretion determine whether to di squalify 
+you, one or more members of your team or your entire team. If certain member(s) of your team withdraw or are disqualified,  GFTN 
+SERVICES has the sole and absolute discretion to permit the remaining member(s) to continue participating in this Competition without 
+the disqualified member(s), and without the right to replace any disqualified member(s). The remaining member(s) may  also elect to 
+withdraw from the Competition.   
+5.7. Each Participant can be a member of only one team in the Competition.   
+5.8. If your team wishes to withdraw from the Competition, please have each member of the team provide us with notice of such withdrawal 
+in accordance with Clause 22.3. Any withdrawal from the Competition for any reason and/or unforeseen circumstances shall be subject 
+to GFTN SERVICES’ written approval.  
+6. Compliance  
+6.1. By registering for and participating in the Competition, you hereby agree to always fully comply with the Rules prescribed by  GFTN 
+SERVICES, as may be modified, added to or updated from time to time.   
+6.2. All decisions made by GFTN SERVICES in relation to the Competition, including the award or non -award of prizes and other benefits, 
+shall be in the sole and absolute discretion of GFTN SERVICES and shall be final and binding on all Participants.  
+7. Registration for the Competition   
+7.1. To participate in this Competition, you must complete the registration process via the registration form and submit all required materials 
+via the programme portal. If you are participating as a team, you must provide all relevant and necessary information for each member 
+of the team during registration.  
+7.2. By submitting the registration, you warrant and represent that all information provided by you for yourself and your team, du ring the 
+registration process and your participation in this Competition, are accurate and complete.  
+7.3. Registration for this Competition closes on 14 August 2026, 2359 (Singapore Time) (“Closing Date”).   
+7.4. Registrations received after the Closing Date will not be accepted by GFTN SERVICES.   
+7.5. Except with the prior written consent of GFTN SERVICES, no amendments shall be made to any registrations (including the composition 
+of any team) after the Closing Date.   
+7.6. GFTN SERVICES is not responsible or liable in any manner whatsoever for any delay or failure to register prior to the Closing  Date, 
+including where such failure is from issues arising from any internet service providers, hosting provider or your equipment.  
+7.7. The Competition will commence on 2 June 2026 and end on 19 November 2026 (both days inclusive), but subject to GFTN SERVICES’ 
+discretion.  
+8. Conduct of the Hackcelerator  
+8.1. Details, deadlines and other rules of the Hackcelerator will be published on the website (https://www.fintechfestival.sg/global-fintech-
+hackcelerator) or the Global FinTech Hackcelerator Portal. You shall be solely responsible for keeping up to date and informed of such 
+details, deadlines and other rel evant information related to the Hackcelerator . The Organiser shall not be responsible for your 
+misunderstanding of, misinterpretation of, or failure to review, comply with, or act upon, any such information published on the Website 
+or Portal. 
+===== PAGE 4 =====
+ 
+Page 4 of 11 
+ 
+8.2. The language of the Hackcelerator shall be English. All materials and communications submitted in connection with the Hackcelerator 
+must be in English. 
+8.3. The Organisers may, in their sole discretion, decide that a submitted Solution to a certain Problem Statement be reclassified  or 
+reassigned to another Problem Statement.  
+8.4. The final winning Solutions from the shortlisted Solutions will be selected by, and in the sole and absolute discretion of, an expert panel 
+organised by the Organisers (“Panel”). The decisions of the Panel shall be final and binding. No appeal shall be entertained in respect 
+of the final decision by the Panel.  
+8.5. Up to twenty shortlisted Participants will be invited to attend related workshops in Singapore and pitch their Solutions at a Demo Day to 
+be held at the Singapore FinTech Festival (“SFF”).   
+8.6. Shortlisted Participants may be eligible for stipends by MAS, in MAS’ sole and absolute discretion, to assist with expenses t hat may be 
+required in connection with their submission of final Solutions and participation in the workshops and Demo Day in Singapore.   
+8.7. At all times, Participants shall take all reasonable precautions to protect the integrity of and shall refrain from any use or divulgence any 
+information, data, and/or solutions related to the Competition including, but not limited to: all files, technolog y solutions, records, 
+documents, specifications, equipment, and similar items, whether the originals or copies were prepared by the Participant, ot her 
+Participants or otherwise came into Participants’ possession.  
+9. Your Submission  
+9.1. The Participants must complete the registration and proposal (hereinafter referred to as the " Project") submission process, in all 
+aspects, by the stated deadline in accordance with these Terms and Conditions and the Rules of the Competition.   
+9.2. The final submission must be registered and made available to the Panel via the Portal before the deadline published on the 
+Hackcelerator website. 
+9.3. You warrant and represent that:   
+(a) you have all the necessary authorizations, permissions, rights, licenses and agreements to participate in the Competition and  to 
+all material used, that your participation in the Competition, and your submission of Solution(s) are in compliance with all 
+applicable laws, rules and regulations; 
+(b) your submissions, Projects, Solutions, etc., do not contain any malicious code, illegal, infringing or undesirable content or  
+materials; and 
+(c) your submissions, Projects, Solutions etc., do not infringe any rights, including intellectual property rights, of any third party.   
+9.4. Except as set forth in these Terms and Conditions, the Participants shall participate in the Competition at their own cost. Y ou 
+acknowledge and agree that neither GFTN SERVICES nor MAS will, or are under any obligation to, reimburse any costs associated  with 
+your participation in the Competition.  
+9.5. The Organisers shall be entitled to retain possession of all Competition entries and any accompanying material submitted to it and the 
+Organisers have no obligation to return such materials.   
+9.6. You are permitted to use open source materials (“Open Source Materials”), provided that you (a) comply fully with all applicable terms 
+and conditions of the Open Source Materials, (b) have the requisite rights and permission to use the Open Source Materials in  your 
+Solutions and the Competition, and (c) clearly indicate the specific Open Source Materials used as part of your Solutions and what role 
+or part such Open Source Materials plays in your Solutions.   
+9.7. You are solely responsible for confirming that your submitted Project and Solution is complete and for making and storing cop ies or 
+drafts of it. The Organisers are not responsible for confirming the accuracy or completeness of a submitted Project, Solutio n, etc. 
+received. The Organisers are not responsible for incomplete, late, misdirected, damaged, lost, illegible, or incomprehensible submitted 
+Project or Solution. Proof of sending or submitting will not be deemed to be proof of receipt by the Organisers. Although the Organisers 
+will make reasonable efforts to store and preserve the material residing on the Website and Portal, none of the Organisers ar e 
+responsible or liable in any way for the failure to store, preserve or access user content or other materials you transmit or archive on the 
+Website and Portal. You are strongly urged to take measures to preserve copies of any data, material, content or information you post or 
+upload on the Website and Portal. You are solely responsible for creating back-ups of your user content.  
+===== PAGE 5 =====
+ 
+Page 5 of 11 
+ 
+9.8. If the Organisers determine that your submitted Project or Solution has not been received, or has been erroneously deleted, l ost, 
+destroyed or corrupted, you may request the opportunity to resubmit your submitted Project or Solution. However, you must make such 
+a request promptly after you know or should have known there was a problem. Your request will be handled at the sole discretion of the 
+Organisers.  
+10. Participant Prizes  
+10.1. Each shortlisted team will be eligible for a stipend of SGD 20,000 before tax and any additional charges. This stipend will b e provided 
+only via wire transfer subject to MAS’ due diligence, KYC and AML checks of the recipient.  
+10.2. The winning team for each Problem Statement will be eligible for a prize of SGD 80,000 before tax and any additional charges. There are 
+three (3) Problem Statements, bringing the total prize pool to SGD 240,000.  
+10.3. The shortlisted Participants and winning teams shall not dispute the size or nature of the prize awarded, or demand different  means of 
+payment from the one specified, or seek exchange/replacement for any reason. Participants who are eligible for the stipend (shortlisted 
+Participants) and the prize (the winner of each Problem Statement) will have 30 days from being notified of their eligibility to provide the 
+MAS with the relevant details and payment information. The stipend will be awarded by MAS and the Pa rticipant may reach out to MAS 
+for further details upon being notified of their eligibility. The Organisers may, in their sole and absolute discretion, but shall not be obliged 
+to, make available to the Participants other sponsored benefits, awards or prizes.  
+10.4. The Participants hereby acknowledge and agree that the stipends and prizes referred to in these Rules will only be paid to th e banking 
+particulars provided by them to MAS, and MAS’ sole obligation in this regard shall be fully discharged upon transfer or t ransmission of 
+the payment to the banking particulars and MAS is under no obligation to ensure that the same is received by the Participants . The 
+Organisers are in no way responsible for the allocation or distribution of the stipends and prizes among the Participants. The Participants 
+shall provide acknowledgement of receipt of the stipend, and where applicable prizes, by email to MAS within 3 days from the date of 
+receipt of the stipend or prize.  
+10.5. The shortlisted teams and the winning teams will be announced on the website.  
+11. Global FinTech Hackcelerator Portal  
+11.1. Your use of the Portal is regulated by these Terms and Conditions .  
+11.2. You shall ensure that your use of the Portal and the Website:  
+(a) Complies with all applicable laws and regulations;  
+(b) Complies with any and all instructions, guidelines, directions, notices, operating rules and/or policies with respect to acce ss to 
+and/or use of the Portal, as may be issued and/or amended by GFTN Services from time to time which are communicated to you 
+or published on the Portal;  
+(c)  Provides accurate information about you and accurately represents your work, gives credit to others when appropriate or required, 
+and respects others’ intellectual property rights.  
+11.3. We may, from time to time and without giving any reason or prior notice, upgrade, modify, suspend or discontinue the provisio n of or 
+remove, whether in whole or in part, the Portal or any Project or Solution and shall not be liable if any such upgrade, mod ification, 
+suspension or removal prevents you from accessing the Portal or any Project or Solution.  
+11.4. We reserve the right, but shall not be obliged to:  
+(a) monitor, screen or otherwise control any activity, content or material on the Portal and in our sole and absolute discretion,  
+investigate any violation of the Terms and take any action we deem appropriate; and/or  
+(b) report any activity that is or is suspected to be in violation of any applicable law to the appropriate authorities and to co -operate 
+with such authorities.  
+11.5. The Website and Portal may contain links to third party websites. Any such links are provided for your convenience only. We d o not 
+control those websites, and we are not responsible for their contents or practices, including their privacy practices. We do not endorse 
+the operators of those sites, nor do we endorse or make any representations with respect to the contents of those sites or any products 
+offered on those sites.  
+===== PAGE 6 =====
+ 
+Page 6 of 11 
+ 
+12. Prohibited Acts  
+12.1. You shall not do any of the following (whether in connection with the Competition, the Solutions or otherwise):  
+(a) carry on illegal, immoral or unethical activities or behaviour of any kind;  
+(b) commercialise the Portal and/or any Project or Solution, including renting, selling, leasing, distributing or directly or ind irectly 
+charging others for use of the Portal and/or Project or Solution;  
+(c) gain unauthorised access to or otherwise interfere or disrupt other computer systems or networks connected to the Portal;  
+(d) gain unauthorised access to password -protected and/or secure areas of the Portal and/or to any other protected information, 
+through any means not intentionally made available by us for your specific use;  
+(e) any form of collusion, cheating, coercion, or intimidation;  
+(f) any acts of sabotage, tampering, misuse, or attacks;   
+(g) impersonate any person or to falsely state or otherwise misrepresent your affiliation with any person;   
+(h) interfere with another’s utilisation and enjoyment of the Portal and/or the Content;  
+(i) use or upload, in any way, any software or material that contains, or which you have reason to suspect contains, viruses, damaging 
+components, malicious code or harmful components which may impair or corrupt the Portal’s data or damage or interfere with 
+the operation of the Portal or another’s computer or mobile device;   
+(j) misrepresent your identity, or your current or past work, education, skills, or qualifications;  
+(k) impersonate any person or entity, including, but not limited to a GFTN SERVICES employee, fellow, past or potential Participant, or 
+falsely state or otherwise misrepresent your affiliation with any person or entity;  
+(l) use or attempt to use or access another Participant or team’s submissions;   
+(m) disclose information about another person or entity, including your employer, that is confidential, or that you are not authorized to 
+disclose;  
+(n) carry on any conduct that is harmful, threatening, abusive, harassing, defamatory, derogatory, libelous, invasive of another’ s 
+privacy, harmful to minors in any way, or hateful toward an individual or group of individuals based on religion, gender, sex ual 
+orientation, race, ethnicity, age, or disability;  
+(o) post or make available any content that:   
+(i) depicts hatred, is in bad taste, incites violence or is likely to incite violence, contains excessive vulgar or obscene langu age 
+or excessive violence, contains pornography, obscenity or sexual activity;  
+(ii) infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party;  
+(iii) substantially duplicate’s another submitted Project or Solution previously entered in the Portal or otherwise any other 
+Competition (by you or another Participant);  
+(iv) constitutes or contains “affiliate marketing;” “link referral code;” “junk mail;” “tracking pixels or code;” “spam;” “chain 
+letters;” “pyramid schemes;” unsolicited commercial advertising; or any other form of excessive, repetitive, and/or 
+unsolicited messages to other users;  
+(v) contains malware such as software viruses, worms, or any other computer code, files or programs designed to interrupt, 
+destroy or limit the functionality of any computer software or hardware or telecommunications equipment;  
+(vi)  discloses personal information about another person such as their NRIC number, email address, telephone number, or 
+address (street or box number);  
+(vii) disrupts the normal flow of dialogue with an excessive amount of content to the Website and/ or Portal, or otherwise 
+negatively affects other users’ ability to use the Website and/ or Portal;  
+===== PAGE 7 =====
+ 
+Page 7 of 11 
+ 
+(p) constitutes excessive use of site features, inconsistent with the intent and purpose of the Website and/ or Portal, and/or pl acing 
+an undue burden on the running of the Website and/ or Portal, including but not limited to excessive registrations for the 
+Competition: 
+(i) uses manual or automated software, devices, scripts robots, or other means or processes to access, “scrape, ” “crawl” or 
+“spider” the Website and/or Portal, or any related data or information;  
+(ii) employs misleading email addresses, or forged headers or otherwise manipulated identifiers in order to disguise the origin 
+of content transmitted through the Website and/ or Portal;  
+(iii) disparages another person or any of the Organisers; or   
+(iv) contains any other content or constitutes any other action, which in the sole judgment of the Organisers, is inappropriate or 
+inconsistent with the purpose of the Website and/ or Portal; or   
+(v)  any act that will bring the Competition, any of the Organisers or other Participants into disrepute.  
+(q) Any violations related to the above will result in immediate disqualification. The restrictions set out herein shall survive the 
+termination of these Terms and Conditions.  
+(r) Where a clause permits GFTN SERVICES to disqualify you, GFTN SERVICES is entitled to, at its sole and absolute discretion, wi th 
+immediate effect and without prior notice, terminate you and/or your team’s participation in the Competition.  
+13. Confidentiality   
+13.1. Any Confidential Information is to be kept confidential by you and shall not be disclosed by you to any third parties (including any other 
+Participant) without the prior written consent of GFTN SERVICES. You shall not use the Confidential Information for purposes other than 
+to participate or compete in the Competition.   
+13.2. Within ten (10) days of receiving notice from GFTN SERVICES, you shall promptly return or destroy (and verify in writing its destruction) 
+all material embodying Confidential Information (in any form and including, without limitation, all summaries, copies and excerpts of 
+Confidential Information and all electronic media or records containing or derived from Confidential Information).  
+13.3. Confidential Information shall not include information that is in the public domain through no fault of or breach by you, and  shall not 
+include information already rightfully known by you without obligations of confidentiality prior to its disclosure to yo u by GFTN 
+SERVICES.  
+14. Intellectual Property  
+14.1. Nothing in this Clause 14 shall affect the ownership or the right to license IP of any Party.   
+14.2. You will retain ownership over any IP (including your Solutions) developed, created or generated by you prior to and during t he 
+Competition. By submitting any Project or Solution through the Portal, you hereby grant, and shall procure the grant of, an i rrevocable, 
+non-exclusive, worldwide, royalty-free, transferable licence on a non-commercial basis to the Project, Solution and underlying IP , for the 
+Organisers to use in their planning, marketing, and promotion of current and future editions of Hackcelerator and other affiliated events.   
+14.3. The Website and Portal contain various information in the form of data, text, graphics, and other materials from GFTN SERVICES and our 
+third party licensors (the “GFTN SERVICES Content”). You acknowledge that the Website and Portal and various elements contained 
+therein are protected by IP rights, and that these worldwide rights are valid and protected in all forms, media, and technologies existing 
+now and hereinafter developed. You als o acknowledge that the GFTN SERVICES content is and shall remain the pro perty of GFTN 
+SERVICES or its licensors. You agree to comply with all intellectual property laws, and you shall not encumber any interest in, or assert 
+any rights to, the GFTN SERVICES Content. You may not modify, transmit, participate in the sale or transfer of, or create derivative works 
+based on any GFTN SERVICES Content, in whole or in part.  
+===== PAGE 8 =====
+ 
+Page 8 of 11 
+ 
+14.4. The trademarks, service marks, trade names and logos (collectively, the “Trademarks”) used and displayed on each of the Website and 
+Portal are registered and unregistered trademarks of ours or our licensors. All page headers, custom graphics, button icons, and scripts 
+are service marks, trademarks and/or trade dress of GFTN SERVICES and may not be copied, imitated or used, in whole or in part, in 
+connection with any product or service that is not authorized by us, in any manner that is likely to cause confu sion among consumers, 
+or in any manner that disparages or discredits us. The Trademarks used and displayed on each of the Website and Portal are an d shall 
+remain the sole property of us or their respective owners. Nothing in these Terms and Conditions shal l be construed as granting, by 
+implication, estoppel or otherwise, any license, ownership right, or right to use any Trademarks used or displayed on the Web site or 
+Portal. The misuse of the Trademarks displayed on the Website or Portal, or any other GFTN SERVICES Content on our Website or Portal, 
+is strictly prohibited. 
+14.5.  All rights are reserved. Unauthorized copying or use of any GFTN SERVICES Content or IP rights without the express written co nsent of 
+GFTN SERVICES is strictly prohibited.  
+14.6. Each of the Website and the Portal is controlled and operated by GFTN SERVICES. Our proprietary software, and our materials o n the 
+Website and Portal, including logos, trademarks, trade names, images, text, illustrations, audio, video files and the selecti on, 
+coordination and arrangement of such materials, are protected by copyrights, trademarks, service marks, or other proprietary rights 
+which are either owned by us or owned by other parties who have licensed their intellectual property to us, and all othe r trademarks, 
+service marks, and trade names used on the Website and Portal are the property of their respective owners.  
+14.7. While you are a Participant in the Competition, GFTN SERVICES grants you a non -exclusive, revocable, personal and non-transferable 
+license, to use the Website and Portal, for your personal and private use, on a non -commercial basis and in compliance with t he 
+purposes of the Website and Portal.  
+14.8. You are prohibited from any other use or exploitation of the Website and Portal, and their content, without the prior written  permission 
+of GFTN SERVICES. Notably, you are prohibited from:  
+(a) reproducing, adapting, distributing, publicly representing and disseminating the Website and/or Portal, and the contents of t he 
+Website and/or Portal;  
+(b) extracting or attempting to extract (notably using data mining robots or any other similar data collection tool) a substantial part of 
+the data of the Website and/or Portal;  
+(c) copying, modifying, creating a derivative work of, reverse engineering, reverse assembling or otherwise attempting to discover any 
+source code;  
+(d) modifying or attempting to modify the Website and/or Portal in any manner or form, except that you have the right to modify y our 
+self-generated content on the Website and/or Portal;  
+(e) framing or utilizing framing techniques to enclose any trademark, logo, or other proprietary information (including Competiti on 
+descriptions, images, text, page layout, or form);  
+(f) using any meta tags or any other “hidden text” with GFTN SERVICES’s name or trademarks.  
+14.9. Any unauthorized use by you which contravenes the above terminates the license granted by us.  
+14.10. All new versions, updates or changes to our Website, Portal or related content shall be subject to these Terms and Conditions , as may 
+be amended from time to time. GFTN SERVICES reserves all rights not expressly granted by the present Terms and Conditions.  
+14.11. You shall not use the name “ GFTN SERVICES” , “Monetary Authority of Singapore ” , “MAS” , or an equivalent name or the logo of the 
+aforementioned institutions for any purposes in any advertising, publicity releases, presentations, or publicly distributed documents, in 
+whatsoever manner, without the prior written consent of its holder.    
+14.12. Notwithstanding the foregoing, the Participants that submit the final winning Solutions may publish the fact of their participation in the 
+Competition, provided that it is clarified that the Solutions are not endorsed or recommended by the Organisers.  
+15. Disclaimer of Liability   
+===== PAGE 9 =====
+ 
+Page 9 of 11 
+ 
+15.1. Without prejudice and in addition to the Organisers’ rights, the Organisers shall not be liable to you or to any third party, for any losses, 
+damage, expenses (including any direct or indirect, special or consequential damage, loss of income, revenue or profit, lost or damaged 
+data, or damage to your device, software or any other property), whether: (a) arising out of or relating to the Rules (including these Terms 
+and Conditions); or (b) in relation to or arising in connection with this Competition, includ ing but not limited to your registration, 
+participation, termination or disqualification in this Competition.  
+15.2.  By registering for and/or participating in the Competition, you hereby agree to assume all risks, and waive all rights to claim against any 
+of the Organisers. The aforesaid disclaimers of liability shall apply regardless of whether Organisers have knowledge of the possibility of 
+such losses or damages so disclaimed or otherwise, and regardless that these losses and damages are foreseeable, or otherwise.  
+15.3. Your participation in this Competition shall be at your own risk and expense, and you shall (a) bear your own costs and expenses incurred 
+in connection with the Competition, and (b) be solely responsible for providing all hardware, software and other relevant equipment.  
+15.4. GFTN SERVICES reserves the right at its sole and absolute discretion at any time to postpone, cancel, terminate, modify or suspend the 
+Competition without the need to provide any reason.   
+15.5. GFTN SERVICES   further reserves the right at its sole and absolute discretion to disqualify any Participant who: (a) GFTN 
+SERVICES  suspects or has reason to believe, has breached the Rules or any applicable laws and regulations; (b) GFTN 
+SERVICES  suspects or has reason to believe,  has committed any fraudulent, dishonest or other wrongful conduct; or (c) any other 
+conduct that GFTN SERVICES   deems injurious or potentially injurious to the reputation of GFTN SERVICES   or the other Organisers 
+(including without limitation any conduct that threatens the integrity or fairness of the Competition), without the need to give any prior 
+notice. GFTN SERVICES shall have no liability or responsibility to any Participant affected by the aforesaid actions.  
+15.6. The services, content, site and any software or other products or services offered by the Website and/ or Portal are provided  on an “as 
+is” and “as available” basis, without warranties of any kind, either express or implied, including that the use of the Website and/ or Portal 
+will (a) be timely, uninterrupted or error-free or operate in combination with any other hardware, software, system or data; (b) meet your 
+requirements or expectations; (c) be free from errors, or that defects will be corrected; (d) b e free of viruses or other harmful 
+components.  
+15.7. GFTN Services disclaims all warranties, including, without limitation, warranties of title, merchantability, fitness for a particular purpose, 
+non-infringement of third parties’ rights and any warranties arising from a course of dealing, course of performa nce, or usage of trade. 
+In connection with any warranty, contract, or common law tort claims, to the fullest extent permissible under law, we shall not be liable 
+to you or any third party, even if we have been advised of the possibility of such losses, damages, or expenses in any way, for any losses, 
+damage, expenses (including any direct or indirect, special or consequential damage, loss of income, revenue or profit, lost or damaged 
+data, or damage to your device, software or any other property), whether: (a) arising out of or relating to the Rules (including these Terms 
+and Conditions); or (b) in relation to or arising in connection with this Competition, including but not limited to your regi stration and 
+participation in this Competition, and/or access and use of the Portal.  
+15.8. By using this Website, you acknowledge that GFTN SERVICES is not responsible or liable for any harm resulting from (a) use of  the 
+Website or Portal; (b) downloading information contained on the Website or Portal, including but not limited to downloads of content 
+posted by users; (c) unauthorized disclosure of images, information or data that results from the upload, download or storage of content; 
+or (d) the temporary or permanent inability to access or retrieve any content from the Website or Portal, inclu ding, without limitation, 
+harm caused by viruses, worms, Trojan horses, or any similar contamination or destructive program.  
+16. Indemnity  
+16.1. You agree to indemnify and hold the Organisers, their directors, officers, employees, agents and representatives (together the “Released 
+Parties”), harmless from all claims, demands, actions, proceedings, liabilities (including statutory liability and liability to third parties), 
+penalties, and costs (including without limitation, legal costs on a full indemnity basis), awards, losses and/or expenses, due to or arising 
+out of: (i) any use of the Global FinTech Hackcelerator Portal; (ii) your connection to t he Global FinTech Hackcelerator Portal; (iii) your 
+participation in the Global FinTech Hackcelerator 202 6; (iv) your submission of the Solution(s); (v) your breach of any terms and 
+conditions of these Terms and Conditions; (vi) your violation of any rights of another person or entity, including intellectu al property 
+rights; or (vii) your breach of any statutory requirement, duty or law.  
+16.2. Without limiting the foregoing, the Released Parties shall have no liability to you in connection with:  
+(a) any incorrect or inaccurate information caused by the Organisers’ electronic or printing error, or by any of the equipment or  
+programming associated with or utilized in the operation of the Website or Portal;  
+===== PAGE 10 =====
+ 
+Page 10 of 11 
+ 
+(b)  technical failures of any kind, including, but not limited to malfunctions, interruptions, or disconnections in phone lines, internet 
+connectivity or electronic transmission errors, or network hardware or software or failure of the Website or Portal;  
+(c)  unauthorized human intervention in any part of the Website or Portal’s operation;  
+(d) Technical or human error which may occur in the administration of the Website or Portal; or  
+(e)  any injury or damage to persons or property which may be caused, directly or indirectly, in whole or in part, from your use o f the 
+Website or Portal.  
+17. Amendment, suspension and termination  
+17.1. The Organisers may at any time vary or amend these Terms and Conditions by posting the amended Terms and Conditions on the Website. 
+If you continue as a Participant in the Competition after such amended Terms and Conditions have been posted, you will be deemed to 
+have accepted the amended Terms and Conditions. You are advised to keep updated on such amendments and additions by visiting the 
+Website. If you do not agree to the amended Terms and Conditions, you have the right to withdraw from the Competition. The Organisers 
+may discontinue the Competition at any time and for whatsoever reason. You agree that the Organisers have the right at their sole and 
+absolute discretion and without notice or liability to restrict, suspend, or terminate your participation in Competition, without assigning 
+any reason. You are also responsible for ensuring that all persons who act on your behalf in the Competition are aware of and  comply 
+with these Terms and Conditions. If you do not agree to any amendments or additions to the Rules (including the Terms and Conditions), 
+please withdraw from the Competition by giving us notice in accordance with Clause 22.5.  
+18. Bar from Participation  
+18.1. Employees of any of the Organisers, or any of their subsidiaries, affiliates, or an immediate family member of any such employee are not 
+eligible to participate in the Competition.  
+19. Personal Data  
+19.1. GFTN SERVICES  may be required to collect your personal data during the course of your registration and/or participation in this 
+Competition. By registering for this Competition, you consent to GFTN SERVICES’s collection, use and disclosure of your personal data 
+in accordance with the GFTN SERVICES Personal Data Protection Policy, including for the publication of your photos or recordi ngs on 
+such media platforms that GFTN SERVICES may from time to time determine for the purposes of promoting or reporting on this 
+Competition. For more information, please refer to the GFTN SERVICES Personal Data Protection Policy here. The GFTN SERVICES 
+Personal Data Protection Policy will form part of these Terms and Conditions.  
+20. Governing law and dispute resolution  
+20.1. These Terms and Conditions shall be governed by and construed in accordance with the laws of the Republic of Singapore. The Parties 
+irrevocably agree that the courts of Singapore shall have exclusive jurisdiction to settle and adjudicate any dispute, claim , question or 
+disagreement (“Disputes”) arising out of the Competition. The Parties irrevocably submit to the jurisdiction of courts of Republic of 
+Singapore. Notwithstanding the aforesaid, GFTN SERVICES may at any time refer any Dispute to be finally reso lved by arbitration in 
+Singapore in the English language by a sole arbitrator in accordance with the Arbitration Rules of the Singapore International Arbitration 
+Centre (“SIAC”) for the time being in force which rules are deemed to be incorporated by reference into this Clause. The seat of the 
+arbitration shall be Singapore. The arbitrator shall be appointed by the President of the SIAC acting in accordance with the SIAC Rules. 
+This arbitration agreement shall be governed by and construed in accordance with  the laws of the Republic of Singapore. Neither the 
+submission of a dispute to arbitration nor any other provision of these Terms and Conditions shall constitute a waiver, express or implied, 
+of any of the privileges, immunities and exemptions which each of the Organisers enjoy in any relevant jurisdiction, which are specifically 
+reserved.  
+21. Rights of Third Parties  
+21.1. A person who is not a party to these Terms and Conditions shall have no right under the Contracts (Rights of Third Parties) A ct 2001 to 
+enforce any provision of these Terms and Conditions, except for the persons listed below who may enforce the benefits granted to them 
+under these Terms and Conditions:  
+(a) MAS;   
+21.2. No consent of the parties referred to in Clause 21.1 shall be required for any rescission, variation (including any release or compromise 
+in whole or in part of any liability) or termination of these Terms and Conditions or any part of it.  
+===== PAGE 11 =====
+ 
+Page 11 of 11 
+ 
+21.3. Order of Precedence: In the event of any conflict, inconsistency or ambiguity between or in any one or more terms in these Te rms and 
+Conditions (such as, without limitation, the other Rules and Personal Data Protection Policy), such conflict, inconsistency or ambiguity 
+shall be resolved in favour of GFTN SERVICES and the provision or interpretation which is more favourable to GFTN SERVICES sh all 
+prevail. Notwithstanding any other term, GFTN SERVICES has the sole and absolute discretion to determine which term or interpretation 
+is more favourable to it and such decision shall be binding on you.  
+22. Assignment  
+22.1. You must not assign or sub-contract these Terms and Conditions. 
+22.2. We may assign, novate, transfer, or sub-contract the rights and liabilities in respect of these Terms and Conditions, without notifying you, 
+without your consent, and without further reference to you.  
+22.3. Notices to GFTN SERVICES: All notices, requests, demands and other communications required or permitted to be given or made under 
+these Terms and Conditions or in connection therewith shall be given or made in writing and delivered by email to GFTN SERVIC ES at 
+the email address referred to below (or such other email address as we may notify you from time to time):  
+gfh@gftn.com  
+Attn: Programme Manager  
+23. Independent Relationship  
+23.1. Participation in this Competition is voluntary. You understand and agree that nothing in these Terms and Conditions may be construed 
+as an offer or contract of employment with GFTN SERVICES or any of the other Organisers. Nothing herein contained shall be deemed 
+or construed to create any employee/employer relationship, partnership, or an agency relationship between you and GFTN SERVICES or 
+any of the other Organisers.  
+ 

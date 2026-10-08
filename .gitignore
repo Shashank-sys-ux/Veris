@@ -1,0 +1,45 @@
+# Root-level ignores. `proven/.gitignore` only covers paths under proven/, so
+# anything sitting at the repository root needs to be named here as well.
+
+# ── Credentials ─────────────────────────────────────────────────────────────
+# Loose credential notes. A Xero client id is not itself a secret, but a bare
+# credential file at the repo root is how a client SECRET eventually ends up in
+# git history. Keep it out of the index.
+xero_client_id.txt
+*_client_id.txt
+*_secret*.txt
+.env
+.env.*
+!.env.example
+
+# ── Python ──────────────────────────────────────────────────────────────────
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.hypothesis/
+*.sqlite
+*.db
+
+# ── Scratch files from debugging ─────────────────────────────────────────────
+_ptest.py
+_ptest_out.txt
+_f2.txt
+_f5.txt
+
+# ── Stale duplicate trees ───────────────────────────────────────────────────
+# SFF/ is an accidental triple-nested copy of this repository (SFF/SFF/SFF/...),
+# frozen at 16 Aug 2026 and ~2 days behind root. Nothing exists only in there.
+# Committing it would double the repo and confuse the "no ported code" evidence
+# that clause 12.1(o)(iii) requires.
+SFF/
+_snapshot-before-ui-merge-20260816-0553/
+
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+.env

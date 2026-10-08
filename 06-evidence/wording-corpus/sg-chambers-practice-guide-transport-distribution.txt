@@ -1,0 +1,735 @@
+SOURCE_URL: https://chambers.com/downloads/gpg/813/016_singapore-t&d.pdf
+CONTENT_TYPE: application/pdf
+BYTES: 466367
+
+
+=== PAGE 1 ===
+ practiceguides.chambers.com
+Definitive global law guides offering 
+comparative analysis from top-ranked lawyers 
+Insurance 
+Litigation 2021
+Singapore: Trends & Developments
+Joseph Lee, Waltan Pak, 
+Jonathan Muk and Shine Koh
+LVM Law Chambers LLC
+
+
+=== PAGE 2 ===
+2
+SINGAPORE  Trends and Developments
+Trends and Developments
+Contributed by:
+Joseph Lee, Waltan Pak, Jonathan Muk and Shine Koh
+LVM Law Chambers LLC see p.10
+Introduction
+This article summarises key changes and pro­
+vides an overview of anticipated changes to Sin­
+gapore’s insurance law regime. 
+Legislative/Regulatory Trends
+SAL Law Reform Committee Report on 
+Reforming Insurance Law in Singapore 
+Following developments in other prominent 
+jurisdictions such as the UK, Australia, Germany 
+and the USA, the Insurance Law Subcommittee 
+(“Subcommittee”) of the Law Reform Committee 
+reviewed the current state of insurance law in 
+Singapore and published the Report on Reform­
+ing Insurance Law in Singapore on 28 February 
+2020. For non-marine insurance, the Subcom­
+mittee recommended that Singapore’s insurance 
+laws be codified into a single Insurance Contract 
+Act, with reforms in the following areas: 
+•	the duty of utmost good faith, with its related 
+issues of duty of disclosure and duty not to 
+misrepresent, warranties and fraud; 
+•	insurable interest; and 
+•	late payment of claims. 
+Duty of utmost good faith 
+The Subcommittee highlighted that currently the 
+only remedy available for breach of the duty of 
+utmost good faith is the avoidance of insurance 
+policies. This approach is draconian and prejudi­
+cial to the insured, particularly where the insurer 
+is the party in breach. 
+The duty of disclosure also places an onerous 
+burden on the insured as it allows an insurer to 
+avoid the insurance contract if any undisclosed 
+material circumstance may have influenced the 
+judgement of a prudent insurer in fixing the pre­
+mium or determining whether it would take on 
+the risk. 
+The Subcommittee suggested that the justifica­
+tion for such duty is based on the likely outdated 
+notion that an insured knows more about the 
+risk than the insurer; however, the insured often 
+poorly understands the duty of disclosure, and 
+advancements in technology and the informa­
+tion revolution now place insurers in a position 
+to secure greater information on the nature of 
+the risk. Placing the duty of disclosure largely on 
+the insured also allows insurers to play a passive 
+role at the underwriting stage, leaving room for 
+insurers to decline cover when a claim is made. 
+The sole remedy of avoidance also results in the 
+harsh outcome of a claim being rejected in its 
+entirety even if insurers would have accepted 
+the risk at a higher premium. 
+Furthermore, Section 33(3) of the Marine Insur­
+ance Act provides that warranties must be com­
+plied with, irrespective of materiality. Together 
+with the use of “basis of contract” clauses con­
+verting all statements made by an insured at the 
+proposal stage into warranties, insurers may 
+decline policy liability even for trivial breaches 
+of warranty that do not add to the risk or when 
+such breaches were remedied before loss. 
+To address these issues, the Subcommittee rec­
+ommended that the framework and provisions 
+of the UK Insurance Act 2015 (“UK Act”) and 
+Consumer Insurance (Disclosure and Repre­
+sentations Act) 2012 (CIDRA) be considered for 
+adoption, including among others: 
+
+
+=== PAGE 3 ===
+3
+Trends and Developments  SINGAPORE
+Contributed by: Joseph Lee, Waltan Pak, Jonathan Muk and Shine Koh, LVM Law Chambers LLC 
+•	the duty of utmost good faith being limited as 
+an interpretive principle and avoidance not 
+being the sole remedy for breach (Section 14, 
+UK Act); 
+•	in consumer insurance, for the duty of dis­
+closure to be replaced with a duty to take rea­
+sonable care not to make a misrepresentation 
+to the insurer (Section 2, CIDRA), with rem­
+edies being calibrated against the insured’s 
+state of mind and the nature of the misrepre­
+sentation (Schedule 1, CIDRA); 
+•	for the duty of disclosure to be replaced with 
+a duty of fair presentation in non-consumer 
+insurance contracts, only obliging an insured 
+to disclose material circumstances the 
+insured knows or ought to know, or disclo­
+sure which gives sufficient information to put 
+a prudent insurer on notice to make further 
+enquiries (Section 3, UK Act); and 
+•	abolishing the use of “basis of contract” 
+clauses (Section 6, CIDRA). 
+The Subcommittee further recommended that 
+desirable features from Australia’s Insurance 
+Contracts Act be adopted to supplement provi­
+sions taken from the UK statutes. 
+Insurable interest 
+The Subcommittee proposed changes to the 
+requirements on insurable interest in life-related 
+and non-life-related insurance. No changes were 
+proposed with respect to liability insurance, as 
+the existence of insurable interest is generally 
+not in question in a liability insurance policy. 
+Insurable interest in life policies is currently man­
+dated under Sections 57 and 62 of Singapore’s 
+Insurance Act (Chapter 142) (IA). The Subcom­
+mittee highlighted that the primary problem with 
+these provisions is that Section 57 only recog­
+nises limited types of insurable interest and is 
+not consonant with market practice. Section 
+62 has also been interpreted as meaning that 
+a life insurance contract without insurable inter­
+est is illegal, which goes further than Section 57 
+(rendering such contracts merely void), with the 
+result that premiums are non-recoverable. 
+Recognising the unsatisfactory effects and inter­
+action between Sections 57 and 62, the Sub­
+committee recommended that the largely otiose 
+Section 62 be repealed, and that Section 57 be 
+amended to recognise the existence of insur­
+able interest outside the categories set in Sec­
+tion 57(1)(b) and to encompass scenarios where 
+there is a “reasonable prospect that the insured 
+will suffer economic loss if the insured event 
+occurs” (clause 2(2), UK’s Insurable Interest Bill 
+2018) even if there is no risk of legally recognised 
+pecuniary loss (held to be required in Halford v 
+Kymer (1830) 10 B & C 724). 
+As for non-life policies, although there is no stat­
+utory requirement for insurable interest under 
+the IA, such requirement has been recognised 
+under common law where it has been held that 
+an insured must have some proprietary interest 
+in the subject matter. However, this requirement 
+has been significantly eroded in bailee insur­
+ance and contractors’ all-risks insurance cases, 
+where the courts have held that potential legal 
+liability is sufficient to support a claim under 
+these property indemnity policies. In light of 
+such development, the Subcommittee recom­
+mended that the requirement for insurable inter­
+est in property-related insurance be removed. 
+Late payment of claims 
+The Subcommittee also recommended enacting 
+a statutory requirement that insurers make pay­
+ment of insurance claims within reasonable time, 
+adopting the position taken under Section 13A 
+of the UK Act, to protect the insured who may 
+be confronted with the possibility of an unrea­
+sonable delay. 
+
+
+=== PAGE 4 ===
+4
+SINGAPORE  Trends and Developments
+Contributed by: Joseph Lee, Waltan Pak, Jonathan Muk and Shine Koh, LVM Law Chambers LLC
+Next steps 
+The proposals of the Subcommittee have been 
+submitted to the Ministry of Law and the Mone­
+tary Authority of Singapore (MAS). It is likely that 
+a public consultation by the Ministry of Law will 
+follow. We note that the Subcommittee’s recom­
+mendations are aligned with international best 
+practices and think that there is a good chance 
+of implementation, which would provide a much-
+needed update to Singapore’s insurance law. 
+Guidelines on Environmental Risk 
+Management for Insurers
+The MAS issued the Guidelines on Environmen­
+tal Risk Management for Insurers (“Guidelines”) 
+on 8 December 2020, seeking to enhance the 
+insurance sector’s resilience to and manage­
+ment of environmental risk. The Guidelines set 
+out the MAS’s expectations on environmental 
+risk management for all insurers, which include 
+the following. 
+•	The responsibility of the board of direc­
+tors and senior management to assess and 
+incorporate environmental considerations into 
+the insurer’s risk management framework, 
+strategies, business plans and product offer­
+ings, and to regularly review the effectiveness 
+of such framework and strategies and make 
+appropriate revisions where necessary. 
+•	Insurers are to develop a risk management 
+framework and put in place policies and 
+processes to manage environmental risks at 
+the customer and portfolio level. For example, 
+insurers should undertake an environmental 
+risk assessment of each customer as part of 
+their underwriting assessment process, devel­
+op sector-specific policies to engage their 
+customers to improve their environmental risk 
+profiles and encourage the transition to sus­
+tainable business practices over time. Insur­
+ers may also consider imposing underwriting 
+conditions to require customers with higher 
+environmental risk to take steps to manage 
+their environmental risk, failing which, limits 
+may be applied on the underwriting exposure, 
+re-assessing the customer relationship or 
+even declining future transactions and exiting 
+the relationship. 
+•	Insurers should put in place appropriate pro­
+cesses and systems to monitor, assess and 
+manage the potential and actual impact of 
+environmental risk on individual investments 
+and portfolios, and should make regular and 
+meaningful disclosure of the salient environ­
+mental risks applicable to its business to its 
+stakeholders. 
+In addition to the Guidelines, on 28 January 
+2021, the Green Finance Industry Taskforce 
+issued a Handbook on Implementing Environ­
+mental Risk Management, providing relevant 
+financial institutions (including insurers) practical 
+guidance on implementation and good practices 
+on environmental risk management. 
+A transitional period of 18 months from 8 
+December 2020 has been given to insurers to 
+implement the Guidelines to existing and new 
+products/transactions. 
+Changes to Work Injury Compensation Act
+Employees injured at work in Singapore may 
+claim under work injury compensation legisla­
+tion or common law, but not both. The current 
+legislation in relation to work injury compensa­
+tion is the Work Injury Compensation Act 2019 
+(WICA 2019) which was passed in parliament 
+in September 2019, with staggered commence­
+ment dates for various amendments to the pre­
+vious Work Injury Compensation Act (Chapter 
+354) (WICA). 
+In addition to enhanced protection for employ­
+ees, amendments that directly impact work inju­
+ry compensation insurers include the following. 
+
+
+=== PAGE 5 ===
+5
+Trends and Developments  SINGAPORE
+Contributed by: Joseph Lee, Waltan Pak, Jonathan Muk and Shine Koh, LVM Law Chambers LLC 
+•	Only designated insurers (“Designated Insur­
+ers”) are allowed to underwrite, issue or 
+renew approved work injury compensation 
+policies. Designation of Designated Insurers 
+is usually valid for three years. 
+•	Designated Insurers are only permitted to 
+underwrite policies approved by the Ministry 
+of Manpower (“WICA 2019 Policies”), which 
+consist of a core set of standard terms and 
+conditions, intended to reduce disputes on 
+policy cover and protect the interests of all 
+parties. 
+•	Claims processing for compensation under 
+WICA was performed by the Commissioner 
+for Labour. Under WICA 2019, Designated 
+Insurers will process claims insured under 
+the WICA 2019 Policies which started on 1 
+January 2021. Claims processing under WICA 
+2019 Policies will commence automatically 
+once the Commissioner for Labour or the 
+insurer is notified of the accident, without the 
+need for the employee to submit a separate 
+claims application. 
+•	Designated Insurers are also required to 
+comply with stipulated claims-processing 
+timelines and service level standards. 
+Litigation
+Insurance litigation in Singapore is not typically 
+prolific and there have been no significant devel­
+opments in the sphere of common law. Litiga­
+tion on the substantive impact of the COVID-19 
+pandemic on business interruption (BI) claims 
+has not yet come before the Singapore courts. 
+However, the courts have had the opportunity to 
+review and confirm long-standing positions on: 
+•	the principle in Richards v Cox (1942) 2 All ER 
+624 (“Richards v Cox”); 
+•	an insured’s duty of disclosure, duty not to 
+misrepresent and the application of a basis 
+clause in an application form for insurance; 
+and 
+•	an insurer’s subrogation rights, encompassing 
+all of an insured’s recovery rights, which are 
+not limited to actions against wrongdoers. 
+Additionally, the introduction of the Actuarial 
+Tables for use in Personal Injury and Death 
+Claims (“Actuarial Tables”) heralds a likely 
+increase in damages awarded to successful 
+claimants in personal injury and fatal accident 
+clams. The knock-on effect of this will be that lia­
+bility insurers will likely face increased outlay for 
+such matters and will have to conduct a review 
+of the sufficiency of reserves set aside for cases 
+involving indemnity against liability for personal 
+injury and death. 
+COVID-19 and business interruption claims 
+There has yet to be any reported decision in 
+Singapore on the applicability of BI insurance 
+to the COVID-19 pandemic. This is likely, as 
+insurance policies generally contain arbitration 
+clauses requiring parties to attend arbitration or 
+to seek resolution through the Financial Industry 
+Disputes Resolution Centre Ltd (FIDReC). These 
+processes are confidential, masking the exist­
+ence and outcome of such disputes from the 
+public eye. 
+The only reported case linked to COVID-19 and 
+BI insurance involved whether a dispute between 
+an insured and insurer (over the issue of whether 
+material damage is required at the risk premises 
+before BI insurance cover is provided), should be 
+stayed for arbitration. 
+In Silverlink Resorts v MS First Capital Insur­
+ance Ltd (2020) SGHC 151 (“Silverlink”), the 
+policy provided a multi-tiered dispute resolution 
+regime, which included an arbitration clause pro­
+viding that “(a)ny dispute arising out of or in con­
+nection with this contract, including any question 
+regarding its existence, validity or termination… 
+shall be referred to arbitration...” The policy also 
+contained an apparently contradictory jurisdic­
+
+
+=== PAGE 6 ===
+6
+SINGAPORE  Trends and Developments
+Contributed by: Joseph Lee, Waltan Pak, Jonathan Muk and Shine Koh, LVM Law Chambers LLC
+tion clause, which provides that “(s)hould any 
+dispute arise between the Insured regarding the 
+interpretation or the application of this Policy, the 
+Insurers will, at the request of the Insured, sub­
+mit to the jurisdiction of any competent Court 
+in Singapore…” The court held that, objectively, 
+the parties’ intention was to carve out disputes 
+regarding the interpretation or application of 
+the policy for the court’s determination. As the 
+question of whether material damage is a pre­
+condition to cover under the BI section of the 
+policy involved a dispute over the interpretation 
+or application of the policy, the court held that 
+this dispute would proceed for determination by 
+the court. The main dispute on the applicability 
+of BI insurance remains to be heard. 
+Lacking judicial pronouncement on issues relat­
+ing to BI insurance, stakeholders will have to 
+seek guidance from test cases in other com­
+mon-law insurance jurisdictions, such as the UK 
+decisions in FCA v Arch Insurance and others 
+(2020) EWHV 2448 and (2021) UKSC 1, and the 
+Australian decision of HDI Global Speciality SE v 
+Wonkana No 3 Pty Ltd trading as Austin Tourist 
+Park (2020) NWSCA 296 as well as the second 
+test case commenced by the Insurance Council 
+of Australia, which will determine broader issues 
+such as the meaning of policy wordings around 
+disease definition, COVID-19 outbreak proxim­
+ity, the impact of government mandates, etc. 
+As English and Australian decisions have per­
+suasive value in Singapore, the outcome of 
+these decisions will play a significant role in the 
+continued development of BI insurance law in 
+Singapore. 
+AIG Asia Pacific Insurance Pte Ltd v AXA 
+Insurance Pte Ltd (2020) SGDC 102 (“AIG v 
+AXA”)
+The District Court confirmed the continued appli­
+cability of the principle in Richards v Cox, that 
+a motor insurance policy procured by a vehicle 
+owner seeking to cover the vehicle owner and 
+the vehicle’s authorised driver is in effect two 
+policies – a policy insuring the vehicle owner 
+and another policy insuring the authorised driv­
+er. When an employee of the vehicle owner is 
+injured in the course of employment while travel­
+ling in the vehicle, the vehicle owner is not enti­
+tled to indemnity from their insurers if the policy 
+contains an exclusion against liability for injuries 
+to employees where these injuries arise out of 
+and in the course of their employment. However, 
+the authorised driver, who is separately insured 
+under the policy, will be entitled to such indem­
+nity. 
+In AIG v AXA, injuries were sustained by two pas­
+sengers of a vehicle driven by their co-worker 
+when it met with a road traffic accident. The driv­
+er and two passengers were employees of Vision 
+Marine Engineering (“Vision Marine”), which had 
+two insurance policies in force at the time: (a) a 
+work injury compensation policy issued by AIG 
+Insurance (“AIG”); and (b) a commercial vehicle 
+policy issued by AXA Insurance (“AXA”). The 
+passengers sued the driver and Vision Marine 
+jointly for their injuries. 
+AXA’s motor policy contained the commonly 
+found clause excluding cover for death or bod­
+ily injury to employees arising out of and in the 
+course of such employment. While AIG accepted 
+that the exclusion clause applied against Vision 
+Marine (as the passengers were travelling in the 
+course of their employment with Vision Marine), 
+AIG argued that pursuant to the decision of 
+Richards v Cox, which was followed by China 
+Insurance Co Ltd v Teh Lain Lee (1974-1976) 
+SLR(R) 820 (“China Insurance”), the exclusion 
+clause did not apply to the liability incurred by 
+the driver since the passengers were not travel­
+ling as the driver’s employees. 
+AXA denied that its motor policy applied to the 
+driver, arguing that the policy considered in Rich­
+
+
+=== PAGE 7 ===
+7
+Trends and Developments  SINGAPORE
+Contributed by: Joseph Lee, Waltan Pak, Jonathan Muk and Shine Koh, LVM Law Chambers LLC 
+ards v Cox was different from AXA’s policy as it 
+provided that the motor insurance policy would 
+“…treat as though he (the authorised driver) were 
+the insured person”; whereas the policy in China 
+Insurance and AXA’s policy merely provided that 
+the insurer “will indemnify any authorised driver”. 
+The District Court held that there was no dif­
+ference between the policy in Richards v Cox 
+and that under consideration in this case, as the 
+intention was to provide separate and distinct 
+indemnity to the driver. As the passengers were 
+not employees of the driver, the exclusion clause 
+was not applicable, thus maintaining the position 
+in Richards v Cox. 
+Tan Yi Lin Cheryl v AIA Singapore Pte Ltd 
+(2021) SGHC 130 
+When applying for a life insurance policy from 
+AIA Singapore Pte Ltd (“AIA”), the plaintiff’s hus­
+band answered “No” in the application form in 
+answer to the question of whether he had made 
+any application for other life insurance policies 
+that were pending. It was not disputed that the 
+answer provided was false as he had made 
+previous applications for life insurance prior to 
+submitting the application form to AIA. He also 
+applied for three further life policies after sub­
+mitting the application form to AIA and did not 
+disclose such applications to AIA. 
+When the plaintiff’s husband passed away, the 
+plaintiff made a claim under AIA’s policy. When 
+reviewing the papers filed in support of the plain­
+tiff’s application for Grant of Probate, AIA dis­
+covered that the plaintiff’s husband had in fact 
+procured up to 12 life insurance policies, most 
+of which had not been disclosed to AIA. 
+The High Court accepted AIA’s argument that 
+the plaintiff’s husband had fraudulently mis­
+represented and/or failed to disclose his ear­
+lier applications for other life policies and was 
+under an obligation of continuing disclosure, to 
+disclose to AIA his applications for further poli­
+cies after submission of the application form. It 
+also accepted AIA’s evidence that an insured’s 
+annual income and insurance history were mate­
+rial to the underwriting of life insurance policies 
+as they allowed insurers to determine whether 
+the insured’s income and financial resources jus­
+tified the total amount of coverage or proposed 
+coverage. An insurer in Singapore would not 
+accept an application for life insurance cover if 
+the total amount of coverage or proposed cov­
+ered exceeded the insurer’s per life limit. 
+Based on the plaintiff’s husband’s age and 
+disclosed annual income, the per life limit was 
+SGD2,250,000, whereas the total coverage 
+obtained by the plaintiff’s husband under all 12 
+policies exceeded that. AIA would have reject­
+ed the plaintiff’s husband’s application if they 
+had known of these 12 policies. The court thus 
+allowed AIA’s avoidance of the policy. 
+AIA also relied on a basis clause in the appli­
+cation form, in which the plaintiff’s husband 
+declared that the statements and answers given 
+in the application form would form the basis of 
+the contract entered between parties, and that 
+if the information given was incomplete or inac­
+curate, the policy might be void. As this meant 
+the plaintiff’s husband’s answers in the applica­
+tion form became warranties or conditions prec­
+edent, AIA was also entitled to avoid the policy 
+on this ground. 
+Sompo Insurance Singapore Pte Ltd v Royal 
+& Sun Alliance Insurance plc (2021) SGHC 
+152
+The High Court considered the scope of an 
+insurer’s rights of subrogation, confirming that 
+insurer’s rights of recovery are not limited to 
+actions against the responsible third party, but 
+also extend to the right to call upon a perfor­
+mance bond issued in connection with the 
+
+
+=== PAGE 8 ===
+8
+SINGAPORE  Trends and Developments
+Contributed by: Joseph Lee, Waltan Pak, Jonathan Muk and Shine Koh, LVM Law Chambers LLC
+insured’s original contract with the party respon­
+sible for the insured loss. 
+Importantly, the High Court confirmed that com­
+mon law rights of subrogation grant an insurer 
+every right an insured has with respect to the 
+loss, including the insured’s rights obtained 
+under a performance bond. This is not limited to 
+the insured’s rights to seek recovery against the 
+wrongdoer, subject to the principle of indemnity, 
+ie, that an insured may not recover more than a 
+full indemnity for their real loss. 
+Actuarial Tables for Use in Personal Injury 
+and Death Claims
+The multiplier-multiplicand approach is applied 
+in assessing claims for loss of future earnings 
+and the costs of future medical expenses in per­
+sonal injury claims, and loss of dependency in 
+fatal accident claims. The multiplicand is derived 
+by taking the difference between an injured 
+plaintiff’s loss of income/anticipated medical 
+expenses or a dependant’s loss of pecuniary 
+benefit; while the multiplier is derived by esti­
+mating the likely number of years that a plain­
+tiff is likely to suffer such reduction in earnings/
+increase in expenses/loss of pecuniary benefit 
+as a result of the accident. 
+There is much uncertainty, as the courts are 
+required to predict not just the length of time 
+a plaintiff is likely to suffer the loss, but also to 
+apply a discount rate for accelerated receipt. 
+These inherent problems were explored before 
+the Court of Appeal in Lai Wai Keong Eugene 
+v Loo Wei Yen (2014) 3 SLR 702. Although the 
+Court of Appeal ultimately declined to revise the 
+discount rate embedded in multipliers used in 
+previous cases (and relied upon as precedents), 
+the judiciary was sufficiently concerned to con­
+duct a comprehensive review of the compensa­
+tion regime in personal injury and fatal accident 
+claims, where it found that, in the precedents 
+built up over the years there was an underlying 
+assumption that a 4.5% per annum rate of return 
+was achievable when considering accelerated 
+receipt. Such rates are unlikely to be consistently 
+achieved today. 
+The Personal Injury (Claims Assessment) Review 
+Committee (“PIRC”) comprising members of the 
+judiciary, MAS, representatives of various insur­
+ance associations and the Law Society of Sin­
+gapore undertook a comprehensive study after 
+which actuarial tables (“Actuarial Tables”) were 
+issued based on the 2019 preliminary popula­
+tion data on mortality produced by the Singa­
+pore Department of Statistics covering Singa­
+pore residents. In addition to projected mortality, 
+the PIRC applied a “yield curve” to account for 
+expected investment returns for investments of 
+different periods of time to apply a discount rate 
+factor to account for accelerated receipt of lump-
+sum compensation payments. While the multi­
+plier-multiplicand approach remains unchanged, 
+the Actuarial Tables assist in achieving greater 
+accuracy when ascertaining a suitable multiplier. 
+The Supreme Court and State Court Practice 
+Directions Actuarial Tables now direct that 
+as from 1 April 2021, the courts will refer to 
+the Actuarial Tables in all proceedings for the 
+assessment of damages in personal injury and 
+death claims for the determination of the mul­
+tiplier, unless the facts of the case and ends of 
+justice dictate otherwise. 
+While the increased accuracy in the quantifica­
+tion of damages through the use of the Actu­
+arial Tables is to be lauded, this is also likely 
+to increase the awards granted, as multipliers 
+produced under the Actuarial Tables are gener­
+ally greater compared to the multipliers awarded 
+in precedent cases. 
+The impact of this on insurers is that liability 
+insurers providing indemnity against personal 
+injury and fatal accident claims will be exposed 
+
+
+=== PAGE 9 ===
+9
+Trends and Developments  SINGAPORE
+Contributed by: Joseph Lee, Waltan Pak, Jonathan Muk and Shine Koh, LVM Law Chambers LLC 
+to greater outlay moving forward and may have 
+set aside insufficient reserves to meet their lia­
+bilities, necessitating urgent review of reserves. 
+Insurers’ increased exposure may also in turn 
+affect the assessment of premiums charged on 
+liability policies covering personal injury and 
+death. 
+
+
+=== PAGE 10 ===
+10
+SINGAPORE  Trends and Developments
+Contributed by: Joseph Lee, Waltan Pak, Jonathan Muk and Shine Koh, LVM Law Chambers LLC
+LVM Law Chambers LLC is a vibrant and tech­
+nology-enabled boutique disputes practice, 
+founded in 2017. It is regularly ranked among 
+the top commercial disputes practices in Singa­
+pore. Since its inception, its dynamic team led 
+by Lok Vi Ming SC and Joseph Lee has grown 
+to over 20 lawyers. As an independent disputes-
+focused firm, it provides practical and legal ad­
+vice on a wide range of disputes to a large base 
+of domestic and international clients. The firm 
+has handled numerous high-value commercial 
+disputes spanning many industries, including 
+aviation, banking, construction, insolvency (ju­
+dicial management, liquidation, scheme of ar­
+rangement), insurance, media and telecommu­
+nications, medical negligence, tax, real estate, 
+regulatory work, shareholders’ disputes, and 
+white-collar crimes. 
+A U T H O R S
+Joseph Lee is the founding 
+deputy managing director of 
+LVM Law Chambers LLC. He is 
+a leading next-generation 
+practitioner and is highly sought 
+after by clients for commercial 
+litigation and arbitration work. Joseph has 
+appeared in multimillion-dollar disputes at all 
+levels of the Singapore courts and before 
+arbitral tribunals seated in various jurisdictions. 
+He is also an arbitrator on the panel of various 
+arbitral institutions and disciplinary tribunals. 
+Joseph is fluent in Mandarin and has a very 
+active China practice. His practice areas 
+include insurance, construction, insolvency 
+and restructuring, aviation, wills and probate, 
+shareholder disputes, employment and trust 
+law. 
+Waltan Pak is an associate 
+director of LVM Law Chambers 
+LLC with 17 years’ insurance 
+disputes experience. She 
+co-leads the firm’s insurance 
+practice and counts the majority 
+of Singapore insurers as clients. Her portfolio 
+includes most classes of business, including 
+reinsurance, property and casualty, 
+professional indemnity, errors and omissions, 
+and business interruption. Waltan has guided 
+clients through litigation, arbitration and 
+mediation, and possesses a keen insight on 
+how to achieve effective outcomes while 
+enhancing business relationships between 
+insurers and clients. She has also advised 
+widely on non-disputes-related issues and 
+assisted clients with the regulatory aspects of 
+insurance business. 
+
+
+=== PAGE 11 ===
+11
+Trends and Developments  SINGAPORE
+Contributed by: Joseph Lee, Waltan Pak, Jonathan Muk and Shine Koh, LVM Law Chambers LLC 
+Jonathan Muk is an of counsel 
+at LVM Law Chambers LLC. He 
+served as a deputy public 
+prosecutor before being posted 
+for two years as a justices law 
+clerk to the Supreme Court of 
+Singapore, where he assisted the court on a 
+variety of legal matters. Since 2016, Jonathan 
+has worked with senior practitioners in the 
+areas of high-value commercial litigation, 
+arbitration and mediation. Jonathan is also an 
+accredited mediator with the Singapore 
+Mediation Centre and part of the FIDReC-SMC 
+Co-Mediation Pilot Scheme, under which he 
+co-mediates financial disputes involving 
+financial institutions, insurers and their 
+customers. 
+Shine Koh won various 
+academic awards while studying 
+at university, including the Brian 
+J Singleton QB Memorial Prize 
+– best academic award in 
+Criminal Law and Procedure – 
+and the STEP Western Australia Prize for the 
+best overall essay on equity and trusts. Since 
+graduating in 2015, Shine has developed a 
+specialist practice in insurance law. She acts 
+for various insurers in Singapore on a wide 
+range of insurance-related matters, including 
+work injury matters under the Common Law 
+and Work Injury Compensation Act, recovery 
+and subrogation matters, public liability 
+matters, association liability matters, and 
+professional indemnity matters. 
+LVM Law Chambers LLC
+160 Robinson Road 
+#13-02 SBF Center 
+Singapore 
+068914 
+Tel: +65 6206 7888
+Fax: +65 6206 7898
+Email: contact@lvmlawchambers.com
+Web: www.lvmlawchambers.com

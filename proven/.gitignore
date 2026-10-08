@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.hypothesis/
+*.sqlite
+*.db
+
+# Secrets. `config.py` reads OPENAI_API_KEY from here when it is not already in the
+# environment, so this file WILL hold a live key on a demo machine. It must never be
+# committed — and a submission that ships a key in git history is a disclosure
+# incident, not a style problem.
+.env
+.env.*
+!.env.example

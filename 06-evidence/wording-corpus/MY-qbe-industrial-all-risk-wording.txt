@@ -1,0 +1,3273 @@
+SOURCE_URL: https://www.qbe.com/media/qbe/asia/malaysia/files/business-insurance-v2/policy-wordings/commercial-property/industrial-all-risk-policy-wording.pdf
+CONTENT_TYPE: application/pdf
+BYTES: 603761
+
+
+=== PAGE 1 ===
+QBE Insurance (Malaysia) Berhad  Reg. No. 161086-D 
+No. 638, Level 6, Block B1, Leisure Commerce Square, No. 9, Jalan PJS 8/9, 
+46150 Petaling Jaya,  
+Postal Address P.O. Box 10637, 50720 Kuala Lumpur, MALAYSIA. 
+Phone: 03-7861 8400    Fax: 03-7873 7430  
+www.qbe.com.my   email: info.mal@qbe.com 
+ 
+ 
+ 
+A member of the worldwide QBE Insurance Group 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Industrial All Risk 
+ Insurance Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QBE INSURANCE (MALAYSIA) BERHAD welcomes you as a Policyholder and we take this opportunity to recommend 
+that you thoroughly examine this Document which sets out the limitations and benefits of the insurance. Please store it in a 
+safe place. 
+ 
+Should you have any query, please contact your Registered Agent/Broker or our QBE office, especially if the insurance is 
+not completely in accordance with your intentions. 
+ 
+ 
+ 
+ 
+FFFISR-002-Q-0115
+
+
+=== PAGE 2 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 1 
+ 
+INDUSTRIAL ALL RISKS INSURANCE POLICY 
+Table of Contents 
+A.  
+THE COVER 
+                                                                                                                                                3 
+B. 
+EXCLUSIONS  (APPLICABLE TO SECTIONS I, II) 
+                                                                                       3 
+1. 
+EXCLUDED CAUSES ..................................................................................................................3 
+2. 
+EXCLUDED PROPERTY ..............................................................................................................5 
+C.  
+POLICY CONDITIONS (APPLICABLE TO SECTIONS I & II) 
+                                                                        6 
+1.     
+IDENTIFICATION ......................................................................................................................6 
+2. 
+DUTY OF DISCLOSURE .............................................................................................................6 
+3. 
+CESSATION OF RISK ..................................................................................................................6 
+4. 
+CANCELLATION .......................................................................................................................7 
+5.  
+SAFEGUARDS AND MAINTENANCE ..........................................................................................7 
+6.  
+CLAIMS ...................................................................................................................................7 
+7. 
+INSURERS’ RIGHTS AFTER A LOSS ............................................................................................7 
+8. 
+FORFEITURE ............................................................................................................................8 
+9. 
+TIME LIMITATION ...................................................................................................................8 
+10. 
+SUBROGATION........................................................................................................................8 
+11.      CONTRIBUTION .......................................................................................................................8 
+12.  
+AVERAGE ................................................................................................................................8 
+13. 
+DEDUCTIBLES ..........................................................................................................................9 
+14. 
+ARBITRATION ..........................................................................................................................9 
+15. 
+REPAIR AND REPLACEMENT ....................................................................................................9 
+16. 
+EXTINGUISHING EXPENSES AND RESCUE TEAM COSTS ............................................................9 
+17. 
+DATE RECOGNITION.............................................................................................................. 10 
+18. 
+PROPERTY DAMAGE CLARIFICATION CLAUSE ........................................................................ 10 
+19. 
+PREMIUM WARRANTY .......................................................................................................... 11 
+D.   
+CLAUSES  (APPLICABLE TO SECTIONS I, ONLY IF IT IS STATED IN THE POLICY SCHEDULE) 
+            11 
+1. 
+PURCHASER CLAUSE ............................................................................................................. 11 
+2. 
+BRAND CLAUSE ..................................................................................................................... 11 
+3. 
+REINSTATEMENT MEMORANDUM ........................................................................................ 11 
+4. 
+PUBLIC AUTHORITY CLAUSE .................................................................................................. 12 
+5. 
+CAPITAL ADDITIONS CLAUSE ................................................................................................. 13 
+6. 
+DESIGNATION CLAUSE .......................................................................................................... 13 
+7. 
+AUTOMATIC REINSTATEMENT OF LOSS CLAUSE .................................................................... 13 
+8. 
+TEMPORARY REMOVAL CLAUSE ............................................................................................ 13 
+9. 
+STOCK DECLARATION ............................................................................................................ 13 
+10. 
+ARCHITECT’S, SURVEYOR’S ENGINEER’S AND CONSULTANT’S FEES ....................................... 14 
+(with separate sum insured). ............................................................................................................ 14 
+
+
+=== PAGE 3 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 2 
+11. 
+ARCHITECT’S, SURVEYOR’S ENGINEER’S AND CONSULTANT’S FEES ....................................... 14 
+(without separate sum insured). ....................................................................................................... 14 
+12. 
+REMOVAL OF DEBRIS (with separate sum insured) ................................................................ 14 
+13. 
+REMOVAL OF DEBRIS (without separate sum insured) .......................................................... 15 
+14. 
+CONTRACT PRICE .................................................................................................................. 15 
+15. 
+COMPUTER SYSTEMS RECORDS ............................................................................................ 15 
+16. 
+TEMPORARY STORAGE CLAUSE ............................................................................................. 15 
+17. 
+APPRAISEMENT CLAUSE ........................................................................................................ 16 
+18. 
+VEHICLE LOAD CLAUSE .......................................................................................................... 16 
+19. 
+ALTERATIONS AND REPAIRS CLAUSE ..................................................................................... 16 
+20.  
+UNVALUED POLICY CLAUSE ................................................................................................... 16 
+E.   
+CLAUSES  (APPLICABLE TO SECTIONS II, ONLY IF IT IS STATED IN THE POLICY SCHEDULE) 
+            16 
+1. 
+SPECIFIED SUPPLIERS' PREMISES ........................................................................................... 16 
+2. 
+ UNSPECIFIED SUPPLIERS' PREMISES ..................................................................................... 16 
+3. 
+SPECIFIED CUSTOMERS' PREMISES ........................................................................................ 17 
+4. 
+PREVENTION OF ACCESS ....................................................................................................... 17 
+5. 
+PUBLIC UTILITIES ................................................................................................................... 17 
+6. 
+INFECTIOUS OR CONTAGIOUS DISEASES, MURDER, SUICIDE, PEST, FOOD OR DRINK POISONING; 
+OR DEFECTIVE SANITARY ARRANGEMENTS ........................................................................... 18 
+7.  
+ACCOUNTANTS’ CLAUSE ....................................................................................................... 19 
+8. 
+PAYMENT ON ACCOUNT CLAUSE .......................................................................................... 19 
+9. 
+DEPARTMENTAL CLAUSE ...................................................................................................... 19 
+10. 
+UPWARD ADJUSTMENT CLAUSE ........................................................................................... 19 
+11. 
+ALTERNATIVE BASIS CLAUSE ................................................................................................. 19 
+12. 
+SALVAGE SALES CLAUSE ........................................................................................................ 20 
+13. 
+REINSTATEMENT OF LOSS CLAUSE ........................................................................................ 20 
+14. 
+INTERDEPENDENCY CLAUSE .................................................................................................. 20 
+15. 
+ACCUMULATION OF STOCK CLAUSE ...................................................................................... 20 
+16.  
+NEW BUSINESS CLAUSE ........................................................................................................ 20 
+F.  
+SPECIFICATIONS (APPLICABLE TO SECTIONS II, ONLY IF IT IS STATED IN THE POLICY SCHEDULE)       21 
+1. 
+GROSS PROFIT DIFFERENCE BASIS WORDING ........................................................................ 21 
+2.  
+DUAL BASIS WAGES WORDING ............................................................................................. 23 
+3. 
+GROSS PROFIT ADDITION BASIS WORDINGS ......................................................................... 24 
+4. 
+GROSS REVENUE WORDING .................................................................................................. 26 
+5. 
+STANDING CHARGES ONLY WORDING .................................................................................. 27 
+6. 
+GROSS RENTAL WORDING .................................................................................................... 28 
+7. 
+100% WAGES WORDING ....................................................................................................... 29 
+8.  
+INCREASED COST OF WORKING ONLY WORDING .................................................................. 31 
+9.  
+PRO-RATA WAGES WORDING ............................................................................................... 31 
+10.  
+ADDITIONAL INCREASE COSTS OF WORKING ......................................................................... 33 
+11.  
+AUDITORS' FEES CLAUSE ....................................................................................................... 33 
+ 
+
+
+=== PAGE 4 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 3 
+ 
+ 
+INDUSTRIAL ALL RISKS INSURANCE POLICY 
+A.  
+THE COVER 
+ 
+This Policy is issued in consideration of the payment of premium as specified in the Policy Schedule and 
+pursuant to the answers given in the Insured’s Proposal Form (or when the Insured applied for this 
+insurance) and any other disclosures made by the Insured between the time of submission of the Insured’s 
+Proposal Form (or when the Insured applied for this insurance) and the time this contract is entered into. 
+The answers and any other disclosures given by the Insured shall form part of this contract of insurance 
+between the Insured and the Insurer. In the event of any pre-contractual misrepresentation made in relation 
+to the Insured’s answers or in any disclosures made by the Insured, it may result in avoidance of the 
+Insured’s contract of insurance, refusal or reduction of the Insured’s claim(s), change of terms or termination 
+of the Insured’s contract of insurance.  
+ 
+This Policy reflects the terms and conditions of the contract of insurance as agreed between the Insured and 
+the Insurer. 
+ 
+QBE Insurance (Malaysia) Berhad (hereinafter called "the Company") agrees, subject to the terms, 
+conditions and exclusions contained herein or endorsed or otherwise expressed hereon which shall so far 
+as the nature of them respectively will permit be deemed to be conditions precedent to the right of the 
+Insured to recover hereunder, that after payment of the first premium. 
+ 
+ 
+SECTION  I – MATERIAL DAMAGE 
+ 
+ 
+If any of the Property Insured situated in the Premises within the Geographical Area as specified in the 
+Schedule be accidentally physically lost destroyed or damaged other than by an excluded cause 
+(hereinafter termed Damage) at any time during the period of insurance or any subsequent period in 
+respect of which the Insured shall have paid and the Insurer shall have accepted the premium required for 
+the renewal of this Policy 
+ 
+The Insurer will pay to the Insured the actual value of the property at the time of the happening of the 
+Damage or at its option reinstate or replace such property or any part thereof. 
+ 
+SECTION II  - BUSINESS INTERRUPTION 
+ 
+If at any time during the period of insurance the business carried on by the Insured at the Premises 
+specified in the Schedule is interrupted or interfered with in consequence of Damage indemnifiable under 
+Section I, then the Insurer shall indemnify the Insured for the amount of loss resulting from such interruption 
+or interference in accordance with the provisions contained in the specification relating to this Section. 
+   
+Provided that at the time of the happening of the Damage there shall be in force an insurance covering the 
+interest of the Insured in the property at the premises against such Damage and that  
+ 
+(i) 
+payment shall have been made or liability admitted therefor  
+ 
+  
+ 
+or 
+ 
+(ii) 
+payment would have been made or liability would have been admitted therefor but for the operation 
+of a proviso in such insurance excluding liability for losses below a specified amount 
+ 
+Provided that the liability of the Insurer in respect of each Section in any one period of Insurance shall in no 
+case exceed 
+ 
+(i)  
+in respect of each item the sum expressed in the Schedule to be insured thereon or in the whole the 
+total sum insured hereby 
+ 
+(ii) 
+any limit of liability shown in the Schedule 
+ 
+or such other sum or sums as may be substituted therefor by memorandum hereon or attached hereto 
+signed by or on behalf of the Insurer. 
+B. 
+EXCLUSIONS  (APPLICABLE TO SECTIONS I, II) 
+ 
+1. 
+EXCLUDED CAUSES 
+ 
+
+
+=== PAGE 5 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 4 
+ 
+This policy does not cover 
+ 
+1. 
+Damage to the property insured caused by 
+ 
+a)  
+(i) 
+faulty or defective design materials or workmanship latent defect gradual 
+deterioration deformation or distortion or wear and tear 
+ 
+(ii) 
+interruption of the water supply gas electricity or fuel systems or failure of the 
+effluent  disposal systems to and from the Premises 
+ 
+(iii) 
+settling or bedding down of structures shrinkage or expansion of foundations 
+walls  floors or ceilings 
+ 
+unless Damage by a cause not excluded in the policy ensues and then the Insurer shall 
+be liable only for such ensuing Damage 
+ 
+ 
+ 
+ 
+b) 
+(i) 
+collapse or cracking of buildings 
+ 
+ 
+(ii) 
+corrosion rust extremes or changes in temperature dampness dryness wet or 
+dry rot fungus shrinkage evaporation loss of weight pollution contamination 
+change in colour flavour texture or finish action of light vermin insects marring 
+or scratching or inherent vice 
+ 
+ 
+ 
+ 
+unless such loss is caused directly by Damage to the property insured or to premises 
+containing such property by a cause not excluded in the policy 
+ 
+c) 
+(i) 
+theft unless accompanied by violence or threat of violence to persons or 
+forcible and violent entry to or exit from the Premises 
+ 
+(ii) 
+any fraudulent scheme trick device or false pretence practised upon the 
+Insured or  upon any person(s) having care of the insured property at such 
+time 
+ 
+(iii)  
+acts of infidelity or acts of dishonesty on the part of the Insured or any of the 
+employees of the Insured 
+ 
+(iv) 
+disappearance unexplained or inventory shortage misfiling or misplacing of 
+information shortage in supply or delivery of materials or shortage due to 
+clerical or accounting error 
+ 
+(v) 
+cracking fracturing collapse or Overheating of boilers economisers vessels 
+tubes or pipes nipple leakage or the failure of welds of boilers 
+ 
+ 
+(vi) 
+mechanical or electrical breakdown or derangement of machinery or 
+equipment including electronic installations computers and data processing 
+equipment.   
+ 
+ 
+(vii) 
+damage to boilers economisers turbines or other vessels machinery or 
+apparatus in which pressure is used or their contents resulting from their 
+explosion or rupture.   
+ 
+ 
+ 
+(viii) 
+bursting overflowing discharging or leaking of water tanks apparatus or pipes 
+when the premises  becomes  unoccupied  and  so remains for a period of 
+more than thirty (30) days 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+unless 
+ 
+(I) 
+Damage by a cause not excluded in the policy ensues and then the Insurer 
+shall be liable only for such ensuing Damage and/or  
+ 
+ 
+(II) 
+such loss is caused directly by Damage to the property insured or to premises 
+containing such property by a cause not excluded in the policy  
+ 
+ 
+ 
+(d) 
+(i) 
+coastal or river erosion 
+ 
+(ii) 
+storm tempest water and rain to property in the open (other than property 
+designed to exist and operate in the open) 
+ 
+(iii) 
+the freezing solidification or inadvertent escape of molten or gaseous material 
+unless a fire ensues then the insurer shall be liable for such ensuing damage 
+ 
+
+
+=== PAGE 6 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 5 
+(iv) 
+false programming punching labelling or inserting inadvertent cancelling of 
+information or discarding of data media and loss of information caused by 
+magnetic fields  
+ 
+2. 
+Damage caused by or arising from 
+ 
+(a) 
+any wilful act or wilful negligence on the part of the Insured or any person acting on his 
+behalf  
+ 
+ 
+ 
+(b) 
+cessation of work  
+ 
+ 
+ 
+(c) 
+delay or loss of market 
+ 
+ 
+ 
+(d) 
+consequential losses of any description other than those insured under Section II 
+ 
+ 
+3. 
+Damage occasioned directly or indirectly by or through or in consequence of any of the following 
+occurrences namely 
+ 
+(a) 
+war invasion act of foreign enemy hostilities or warlike operations (whether war be 
+declared or not) civil war 
+ 
+ 
+(b) 
+mutiny civil commotion assuming the proportions of or amounting to a popular rising 
+military rising insurrection rebellion revolution military or usurped power 
+ 
+ 
+ 
+ 
+(c) 
+any act of terrorism. 
+ 
+ 
+For this purpose an act of terrorism means an act, including but not limited to the use of 
+force or violence and or the threat thereof, of any person or group(s) of persons, 
+whether acting alone or on behalf of or in connection with any organization(s) or 
+government(s), committed for political, religious, ideological or similar purposes 
+including the intention to influence any government and or to put the public, or any 
+section of the public, in fear. 
+ 
+(d) 
+(i) 
+permanent 
+or 
+temporary 
+dispossession 
+resulting 
+from 
+confiscation 
+nationalization commandeering or requisition by any lawfully constituted 
+authority      
+   
+ 
+(ii) 
+permanent or temporary dispossession of any building resulting from the unlawful 
+occupation of such building by any person 
+ 
+provided that the Insurers are not relieved of any liability to the Insured in respect of  
+Damage to the property insured occurring before dispossession or during temporary 
+dispossession which is otherwise insured by this Policy  
+ 
+(e) 
+the destruction of property by order of any public authority 
+ 
+In any action suit or other proceeding where the Insurer alleges that by reason of the provisions 
+of Exclusions A3(a) (b) and (c) above any loss destruction or damage is not covered by this 
+insurance the burden of proving that such loss destruction or damage is covered shall be upon 
+the Insured. 
+ 
+4. 
+Damage directly or indirectly caused by or arising from or in consequence of or contributed to by 
+ 
+(a) 
+nuclear weapons material 
+ 
+(b) 
+ionising radiations or contamination by radioactivity from any nuclear fuel or from any 
+unclear waste from the combustion of nuclear fuel.  Solely for the purpose of this 
+Exclusion A4(b) combustion shall include any self-sustaining process of nuclear fission. 
+ 
+ 
+2. 
+EXCLUDED PROPERTY 
+ 
+This Policy does not cover 
+ 
+1. 
+(a) 
+money cheques bullion negotiable instruments and securities of all kinds any curiosity or 
+work of art (other than drawing  painting and sculpture of  individual value not exceeding 
+RM500 per item)  furs  garments  trimmed with  fur jewellery watches  pearls set  or  
+unset  precious stones gold silver platinum or other precious metal and alloy 
+     
+(b) 
+documents manuscripts plans drawings designs patterns models moulds business 
+books or  computer systems records for the value to the Insured of the information 
+contained therein    
+ 
+
+
+=== PAGE 7 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 6 
+(c) 
+property sold by the Insured under conditional sale trust agreement instalment plan or 
+deferred payment plan or after delivery to customers 
+ 
+(d) 
+vehicles licensed for road use (including accessories thereon) caravans railway 
+locomotives or rolling stock watercraft aircraft spacecraft or the like 
+ 
+(e) 
+property in transit other than within the premises specified in the Schedule 
+ 
+(f) 
+property or structures in course of demolition construction or erection and materials or 
+supplies in  connection therewith 
+ 
+(g) 
+land (including top-soil back-fill drainage or culverts) driveways pavements roads 
+runways railway lines dams of all kinds weirs overhead lines transmissions mast 
+irrigation systems sewer systems storage tanks and the contents thereof reservoirs 
+canals harbours rigs wells pipelines tunnels bridges docks piers jetties excavations 
+wharves mining property underground off-shore property 
+ 
+    
+(h) 
+animals livestock growing crops standing timber plants lawns trees and shrubs 
+ 
+                         
+(i) 
+property damaged as a result of its undergoing any process 
+ 
+ 
+(j) 
+machinery during installation removal or resiting (including dismantling and re-erection) if 
+directly attributable to such operations. 
+ 
+ 
+ 
+(k) 
+property undergoing alteration repair testing installation or servicing including materials 
+and supplies therefor if directly attributable  to the operations of work being performed 
+thereon unless Damage by a cause not otherwise excluded ensues and then the Insurer 
+will be liable only for such ensuing loss 
+ 
+ 
+(l) 
+property in course of manufacture if such loss destruction or damage is sustained while 
+the property is being actually worked on and directly resulting from such work unless 
+Damage by  a cause not otherwise excluded ensues and then the Insurer will be liable 
+only for such ensuing loss 
+ 
+ 
+ 
+ 
+(m)        property more specifically insured 
+ 
+2. 
+Damage to property which at the time of the happening of such Damage is insured by or would 
+but for the existence of this policy be insured by any marine policy or policies except in respect of 
+any excess beyond the amount which would have been payable under the marine policy or 
+policies had this insurance not been effected. 
+ 
+C.  
+POLICY CONDITIONS (APPLICABLE TO SECTIONS I & II) 
+ 
+1.     
+IDENTIFICATION 
+ 
+This  Policy  and  the  Schedule  (which forms an integral part of this Policy) shall be read together as one 
+contract and words and  expressions  to  which  specific  meanings  have  been attached in any part of 
+this Policy or of the Schedule shall bear such specific meanings wherever they shall appear. 
+ 
+ 
+2. 
+DUTY OF DISCLOSURE 
+ 
+The Insured had a duty to disclose any matter that the Insured knows to be relevant to the Insurer’s 
+decision in accepting the risks and determining the rates and terms to be applied and any matter a 
+reasonable person in the circumstances could be expected to know to be relevant otherwise it may result 
+in avoidance of the Insured’s contract of insurance, refusal or reduction of the Insured’s claim(s), change 
+of terms or termination of the Insured’s contract of insurance.  
+ 
+The Insured also has a duty to tell the Insurer immediately if at any time after the Insured’s contract of 
+insurance has been entered into, varied or renewed with the Insurer any of the information given in the 
+Proposal Form (or when the Insured applied for this insurance) is inaccurate or has changed. 
+ 
+ 
+3. 
+CESSATION OF RISK 
+ 
+Under any of the following circumstances the insurance under this Policy ceases to attach as regards the 
+property affected unless the Insured before the occurrence of any loss or damage obtains the sanction of 
+the Insurer signified by endorsement upon policy 
+ 
+
+
+=== PAGE 8 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 7 
+(a) 
+if the trade or manufacture carried on be altered or if the nature of the occupation of or other 
+circumstances    affecting the building or containing the insured property be changed in such a way 
+as to increase the risk of      loss or damage  
+ 
+(b) 
+if the building insured or containing the insured property becomes unoccupied and so remains for a 
+period of more than 30 days 
+ 
+(c)    
+if the property insured be removed to any building or place other than that in which it is herein 
+stated to be insured      
+ 
+(d)  
+if the interest in the property insured passes from the Insured otherwise than by will or  operation of 
+law            
+ 
+ 
+ 
+ 
+ 
+(e) 
+if  a  notice  to  quit by  any order  by the local Authorities  for the  requisition or acquisition of the  
+land on which the Insured’s property is situated has been issued    
+ 
+(f) 
+In respect of Section II only, if the business be wound up or carried on by a liquidator or Receiver or 
+permanently discontinued   
+  
+  
+4. 
+CANCELLATION  
+ 
+This insurance may be terminated at any time at the request of the Insured in which case the Insurer will 
+retain the customary short period rate for the time the Policy has been in force.  This insurance may also 
+be terminated at the option of the Insurer on 30 days notice to that effect being given to the Insured in 
+which case the Insurer shall be liable to repay on demand a rateable proportion of the premium for the 
+unexpired term from the date of the cancellation. 
+ 
+5.  
+SAFEGUARDS AND MAINTENANCE 
+ 
+The Insured shall at all times and as far as is reasonably practicable take steps to safeguard the  property 
+insured and maintain it in a proper state of repair.  The Insured shall also take steps to enforce the 
+observance of all statutory provisions manufacturer’s recommendations and other regulations relating to 
+the safety use and inspection of the property insured. 
+ 
+6.  
+CLAIMS  
+ 
+ 
+If any event giving rise to or likely to give rise to a claim under this Policy comes to his knowledge the 
+Insured shall 
+ 
+(a) 
+immediately 
+ 
+(i) 
+take steps to minimize the loss or damage and recover any missing property 
+ 
+(ii) 
+give notice in writing to the Insurer and  
+ 
+(iii) 
+give notice to the police if the event be theft or suspected theft or wilful or malicious 
+damage  
+ 
+(b) 
+within 30 days or such further time as the Insurer may in writing allow deliver to the Insurer 
+ 
+(i) 
+a claim in writing for the loss or damage containing as particular an account as may be 
+reasonably practical of all the several articles or items of property lost or damaged and 
+the  amount of  loss or damage thereto respectively having regard to their value at the 
+time of the loss or damage 
+ 
+(ii) 
+particulars  of all other insurances if any. 
+ 
+ 
+ 
+The Insured shall at all times at his own expense produce procure and give to the Insurer all such further 
+particulars plans specifications books vouchers invoices duplicates or copies thereof documents proofs 
+and information with respect to the claim and the origin and cause of the loss or damage and the 
+circumstances under which the loss or damage occurred and any matter touching the liability or the 
+amount of liability of the Insurer as may be reasonably required by or on behalf of the Insurer together with 
+a declaration on oath or in other legal form of the truth of the claim and any matters connected therewith. 
+ 
+7. 
+INSURERS’ RIGHTS AFTER A LOSS 
+ 
+ On the happening of any loss or damage to any of the property insured by this Policy the Insurer may 
+ 
+(a) 
+enter and take and keep possession of the building or premises where the loss or damage has 
+happened  
+ 
+ 
+(b) 
+take possession of or require to be delivered to it any property of the Insured in the buildings or 
+on the premises at the time of the loss or damage 
+
+
+=== PAGE 9 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 8 
+ 
+(c) 
+keep possession of any such property and examine sort arrange remove or otherwise deal with 
+the same 
+ 
+(d) 
+sell any such property or dispose of the same for account of whom it may concern. 
+ 
+The powers conferred by this Condition shall be exercisable by the Insurer at any time until notice in 
+writing is given by the Insured that he makes no claim under this Policy or if any claim is made until such 
+claim is finally determined or withdrawn and the Insurer shall not by any act done in the exercise or 
+purported exercise of its powers hereunder incur any liability to the Insured or diminish its rights to rely 
+upon any of the Conditions of this Policy in answer to any claim.  
+ 
+If the Insured or any person acting on his behalf shall not comply with the requirements of the Insurer or 
+shall hinder or obstruct the Insurer in the exercise of its powers hereunder all benefit under this Policy 
+shall be forfeited. 
+ 
+ 
+The Insured shall not in any case be entitled to abandon any property to the Insurer whether taken 
+possession of by the Insurer or not. 
+ 
+8. 
+FORFEITURE 
+ 
+If any claim upon this policy be in any respect fraudulent or if any fraudulent means or devices are used by 
+the Insured or any one acting on his behalf to obtain any benefit under this policy or if the loss destruction 
+or damage be occasioned by the wilful act or with the connivance of the Insured all benefit under this 
+policy shall be forfeited. 
+ 
+If a claim be made and rejected and an action or suit be not commenced within three (3) months after 
+such rejection or  (in case of an arbitration taking place in pursuance of condition 14 of this policy) within 
+three (3) months after the Arbitrator or Arbitrators or Umpire shall have made their award all benefit under 
+this policy shall be forfeited. 
+ 
+9. 
+TIME LIMITATION  
+ 
+In no case whatever shall the Insurer be liable for any loss or damage after the expiration of twelve 
+months 
+ 
+(i) 
+in respect of Section I, from the happening of the loss or damage 
+ 
+(ii) 
+in respect of Section II, from the end of the Indemnity Period or, if later, three months from the 
+date on which payment shall have been made or liability admitted by the Insurers covering the 
+Damage giving rise to the said claim 
+ 
+           
+ unless the claim is the subject of pending action or arbitration. 
+ 
+10. 
+SUBROGATION 
+ 
+The Insured shall at the expense of the Insurer do and concur in doing and permit to be done all such acts 
+and things as may be necessary or reasonably required by the Insurer for the purpose of enforcing any 
+rights and remedies or of obtaining relief and indemnity from other parties to which the Insurer shall be or 
+would become entitled or subrogated upon their paying for or making good any loss destruction or 
+damage under this policy whether such acts and things shall be or become necessary or required before 
+or after his indemnification by the Insurer. 
+ 
+11.      
+CONTRIBUTION 
+ 
+If at the time of any loss destruction or damage happening to any subject matter insured there be any 
+other subsisting insurances whether by the Insured or by any other person or persons covering the same 
+subject matter the Insurer shall not be liable to pay or contribute more than their rateable proportion of 
+such loss destruction or damage. 
+ 
+12.  
+AVERAGE 
+ 
+The sums insured of each item under Section I and of Section II of this policy are declared to be 
+separately subject to Average. 
+ 
+ 
+Section I: 
+ 
+If the subject matter insured at the time of any loss destruction or damage be collectively of greater value 
+than the sum insured thereon then the Insured shall be considered as being his own Insurer for the 
+difference and shall bear a rateable proportion of the loss accordingly.  Every item if more than one of the 
+policy shall be separately subject to this condition. 
+ 
+Section II: 
+
+
+=== PAGE 10 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 9 
+ 
+The Insurance is limited to loss of Gross profit due to (a) Reduction in Turnover and (b) Increase in cost of 
+Working and the amount payable as indemnity thereunder shall be: 
+ 
+a) 
+in respect of Reduction in Turnover : the sum produced by applying the Rate of Gross Profit to 
+the amount by which the Turnover during the Indemnity Period shall in consequence of the 
+damage fall short of the Standard Turnover. 
+ 
+b) 
+in respect of Increase in Cost of Working : the additional expenditure (subject to the provisions of 
+the Uninsured Standing Charges Clause) necessarily and reasonably incurred for the sole 
+purpose of avoiding or diminishing the reduction in Turnover which but for that expenditure would 
+have taken place during the Indemnity Period in consequence of the damage but not exceeding 
+the sum produced by applying the Rate of Gross Profit to the amount of the reduction thereby 
+avoided:  
+ 
+less any sum saved during the Indemnity Period in respect of such of the charges and expenses of the 
+Business payable out of Gross Profit as may cease or be reduced in consequence of the damage: 
+ 
+provided that if the Sum Insured by this item be less than the sum produced by applying the Rate of Gross 
+Profit to the Annual Turnover (or to a proportionately increased multiple thereof where the Maximum 
+Indemnity Period exceeds twelve months) the amount payable shall be proportionately reduced.  
+ 
+13. 
+DEDUCTIBLES 
+ 
+This policy does not cover in respect of each Section the amounts of the deductibles stated in the 
+Schedule in respect of each and every loss as ascertained after the application of all other terms and 
+conditions of the policy including any condition of average. 
+ 
+It is further warranted that during the currency of the policy the Insured shall not effect insurance in 
+respect of the amounts of the deductibles stated in the Schedule. 
+ 
+14. 
+ARBITRATION 
+ 
+If any difference arises as to the amount of any loss or damage such difference shall independently of all 
+other questions be referred to the decision of an Arbitrator to be appointed in writing by the parties in 
+difference or if they cannot agree upon a single Arbitrator to the decision of two disinterested persons as 
+Arbitrators of whom one shall be appointed in writing by each of the parties within two (2) calendar 
+months after having been required so to do in writing by the  other party.  In case either party shall refuse 
+or fail to appoint an Arbitrator within two (2) calendar months after receipt of notice in writing requiring an 
+appointment the other party shall be at liberty to appoint a sole Arbitrator and in case of disagreement 
+between the Arbitrators the difference shall be referred to the decision of an Umpire who shall have been 
+appointed by them in writing before entering on the reference and who shall sit with the Arbitrators and 
+preside at their meetings.  The death of any party shall not revoke or affect the authority or powers of the 
+Arbitrator(s) or Umpire respectively and in the event of the death of an Arbitrator or Umpire another shall 
+in each case be appointed in his stead by the party or Arbitrators (as the case may be) by whom the 
+Arbitrator or Umpire so dying was appointed.  The costs of the reference and of the award shall be at the 
+discretion of Arbitrator(s) or Umpire making the award.  And it is hereby expressly stipulated and declared 
+that it  
+ 
+shall be a condition precedent to any right of action or suit upon this policy that the award by such 
+Arbitrator(s) or Umpire of the amount of the loss or damage if disputed shall be first obtained. 
+ 
+15. 
+REPAIR AND REPLACEMENT 
+ 
+The Insurer may at its option reinstate or replace the property damaged or destroyed or any part thereof 
+instead of paying the amount of the loss or damage or may join with any other Insurer or Insurers in so 
+doing but the Insurer shall not be bound to reinstate exactly or completely but only as circumstances 
+permit and in reasonably sufficient manner and in no case shall the Insurer be bound to expend more in 
+reinstatement than it would have cost to reinstate such property as it was at the time of the occurrence of 
+such loss or damage nor more than the sum insured by the Insurer thereon. 
+ 
+If the Insurer so elect to reinstate or replace any property the Insured shall at his own expense furnish the 
+Insurer with such plans, specifications measurements quantities and such other particulars as the Insurer 
+may require and no acts done or caused to done by the Insurer with a view to reinstatement or 
+replacement shall be deemed an election by the Insurer to reinstate or replace.  
+ 
+16. 
+EXTINGUISHING EXPENSES AND RESCUE TEAM COSTS 
+ 
+ 
+The insurance of this Policy is held to include  
+ 
+i) 
+Wages of the Insured’s employee other than full time members of a Works Fire Brigade. 
+ 
+
+
+=== PAGE 11 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 10 
+ii) 
+The cost of replenishment of fire fighting appliances and destruction of or damage to materials 
+(including employees’ clothing and personal effects unless otherwise specifically insured) 
+ 
+iii) 
+Other costs (including loss or damage to property to gain access) 
+ 
+necessarily and reasonably incurred in extinguishing fires or in saving property or life from loss or damage 
+by any peril herein at or adjoining the situation of the property insured or immediately threatening to 
+involve such property. 
+ 
+ 
+17. 
+DATE RECOGNITION  
+ 
+ 
+It is noted and agreed this policy is hereby amended as follows:- 
+ 
+A. 
+The Insurer will not pay for any loss or damage including loss of use with or without physical 
+damage, injury (including bodily injury), expenses incurred  or any consequential loss directly or 
+indirectly caused by, consisting of, or arising from, the failure or inability of any computer, data 
+processing equipment, media microchip, operating systems, microprocessors (computer chip), 
+integrated circuit or similar device, or any computer software, whether the property of the Insured 
+or not, and whether occurring before, during or after the year 2000 that results from the failure or 
+inability of such device and/or software as listed above to:- 
+ 
+1. 
+correctly recognize any date as its true calendar date; 
+ 
+2. 
+capture, save, or retain, and/or correctly manipulate, interpret or process any data or 
+information or command or instruction as a result of treating any date other than as its 
+true calendar date; and/or 
+ 
+3. 
+capture, save, retain or correctly process any data as a result of the operation of any 
+command which has been programmed into any computer software, being a command 
+which causes the loss of data or the inability to capture, save, retain or correctly process 
+such data on or after any date. 
+ 
+B. 
+It is further understood that the Insurers will not pay for the repair or modification of any part of 
+any electronic data processing system or any part of any device and/or software as listed above 
+in A. 
+ 
+C. 
+It is further understood that the Insurers will not pay for any loss or damage including loss of use 
+with or without physical damage, injury (including bodily injury), expenses incurred or  any 
+consequential loss directly or indirectly arising from any advice, consultation, design, evaluation, 
+inspection, installation, maintenance, repair or supervision done by the Insured or for the Insured 
+or by or for others to determine, rectify or test, any potential or actual failure, malfunction or 
+inadequacy described in A above.   
+ 
+ 
+D. 
+It is further understood that the Insurer will not pay for any consequential loss resulting from any 
+continuing inability of the computer and equipment described in A above to correctly recognize 
+any date as its true calendar date after the lost or damaged property has been replaced or 
+repaired. 
+ 
+Such loss or damage, injury (including bodily injury), expenses incurred or any consequential loss referred 
+to in A, B, C or D above, is excluded regardless of any other cause that contributed concurrently or in any 
+other sequence to the same. 
+ 
+Saving 
+clause 
+ 
+This endorsement shall not exclude subsequent loss or damage or consequential loss which itself 
+results from an Defined Peril.  Defined Perils shall mean fire, lightning, explosion, aircraft or vehicle 
+impact, falling objects, windstorm, hurricane, cyclone, typhoon, riot, strike, civil commotion, vandalism, 
+malicious mischief, earthquake, volcanic eruption, flood, bursting or overflowing of water tanks or 
+pipes, subsidence and landslip and spontaneous combustion.
+ 
+Subject otherwise to the terms and conditions of this Policy. 
+ 
+18. 
+PROPERTY DAMAGE CLARIFICATION CLAUSE  
+ 
+Property damage covered under this Policy shall mean physical damage to the substance of property. 
+ 
+Physical damage to the substance of property shall not include damage to data or software, in particular 
+any detrimental change in data, software or computer programmes that is caused by deletion, a corruption 
+or a deformation of the original structure. 
+ 
+Consequently the following are excluded from this Policy:- 
+ 
+
+
+=== PAGE 12 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 11 
+A. 
+Loss of or damage to data or software, but not limited to any detrimental change in data, software or 
+computer programs that is caused by a deletion, a corruption or a deformation of the original 
+structure, and any business interruption losses resulting from such loss or damage.  Notwithstanding 
+this exclusion, loss or damage to data or software, which is the direct consequence of insured 
+physical damage to the substance of property, shall be covered. 
+ 
+B. Loss or damage resulting from an impairment in the function, availability, range of use or accessibility 
+of data, software or computer programs, and any business interruption losses resulting from such loss 
+or damage. 
+ 
+ 
+19. 
+PREMIUM WARRANTY 
+ 
+It is a fundamental and absolute special condition of this contract of insurance that the premium due must 
+be paid and received by the Insurer within sixty (60) days from the inception date of this 
+Policy/Endorsement/Renewal Certificate. 
+ 
+If this condition is not complied with then this contract is automatically cancelled and the Insurer shall be 
+entitled to the pro-rata premium for the period they have been on risk. 
+ 
+Where the premium payable pursuant to this Warranty is received by an authorized agent of the Insurer, 
+the payment shall be deemed to be received by the Insurer for the purposes of this Warranty and the onus 
+of proving that the premium payable was received by a person, including an insurance agent, who was not 
+authorized to receive such premium shall lie on the Insurer. 
+ 
+Subject otherwise to the terms and conditions of this policy.  
+ 
+D.   
+CLAUSES  (APPLICABLE TO SECTIONS I, ONLY IF IT IS STATED IN THE POLICY SCHEDULE) 
+ 
+1. 
+PURCHASER CLAUSE 
+ 
+If at the time of any loss or damage to any building hereby insured the Insured shall have contracted to 
+sell his interest in such building and the purchase shall not have been but shall be thereafter completed 
+the Purchaser on the completion of the purchase if and so far as the property is not otherwise insured by 
+or on behalf of the Purchaser against such loss or damage shall be entitled to the benefit of this Policy so 
+far as it relates to such loss or damage without prejudice to the rights and liabilities of the Insured or for 
+the Insurer under this Policy up to the date of completion of the purchase. 
+ 
+2. 
+BRAND CLAUSE 
+ 
+In the event of loss or damage to the property insured under this Policy it is understood and agreed that 
+any branded goods and/or merchandise shall not be disposed of by sale without the consent of the 
+Insured.  In the event of the Insured not consenting to such sale the salvage value as agreed shall be 
+taken into account in the settlement of loss. 
+ 
+3. 
+REINSTATEMENT MEMORANDUM 
+ 
+It is hereby declared and agreed that in the event of the property insured under the within Policy being lost 
+destroyed or damaged the basis upon which the amount payable under the policy is to be calculated shall 
+be the cost of replacing or reinstating on the same site property of the same kind or type but not superior 
+to or more extensive than the insured property when new subject to the following Special Provisions and 
+subject also to the terms and conditions of the Policy except insofar as the same may be varied hereby. 
+ 
+SPECIAL PROVISIONS 
+ 
+i) 
+The work of replacement or reinstatement (which may be carried out upon another site and in 
+any manner suitable to the requirements of the Insured subject to the liability of the Insurer not 
+being thereby increased) must be commenced and carried out with reasonable despatch and in 
+any case must be completed within 12 months after the loss destruction or damage or within 
+such further time as the Insurer may (during the said 12 months) in writing allow otherwise no 
+payment beyond the amount which would have been payable under the Policy if this 
+memorandum had not be been incorporated therein shall be made. 
+ 
+ 
+ii) 
+Until expenditure has been incurred by the Insured in replacing or reinstating the property lost 
+destroyed or damaged the Insurer shall not be liable for any payment in excess of the amount 
+which would have been payable under the Policy if this memorandum had not been incorporated 
+therein. 
+ 
+iii) 
+If at the time of replacement or reinstatement the sum representing the cost which would have 
+been incurred in replacement or reinstatement if the whole of the property covered had been 
+destroyed exceeds the sum insured thereon at the breaking out of any fire or at the 
+
+
+=== PAGE 13 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 12 
+commencement of any loss destruction of or damage to such property by any other peril insured 
+against by this Policy then the Insured shall be considered as being his own insurer for the 
+excess and shall bear a rateable proportion of the loss accordingly.  Each item of the Policy (if 
+more than one) to which this memorandum applies shall be separately subject to the foregoing 
+provision.  
+ 
+iv) 
+This Memorandum shall be without force or effect if 
+ 
+a) 
+The Insured fails to intimate to the Insurer within 6 months from the date of loss 
+destruction or damage or such further time as the Insurer may in writing allow his 
+intention to replace or reinstate the property destroyed or damaged 
+ 
+ 
+ 
+b) 
+The Insured is unable or unwilling to replace or reinstate the property lost destroyed or 
+damaged on the same  or another site. 
+     
+ 
+ 
+v) 
+No payment beyond the amount which would have been payable under the Policy if this 
+memorandum had not been incorporated therein shall be made if at the time of any loss 
+destruction or damage to any property insured hereunder such property shall be covered by any 
+other insurance effected by or on behalf of the Insured which is not upon the identical basis of 
+reinstatement set forth therein. 
+ 
+vi) 
+Where by reason of any of the above Special Provisions no payment is to be made beyond the 
+amount which would have been payable under the Policy if this memorandum had not been 
+incorporated therein the rights and liabilities of the Insurer and the Insured in respect of the loss 
+destruction or damage shall be subject to the terms and conditions of the Policy including any 
+Condition of Average therein as if this memorandum had not been incorporated therein.  
+ 
+ 
+ 
+ 
+ 
+4. 
+PUBLIC AUTHORITY CLAUSE 
+ 
+The property insured under this Policy extends to include such additional cost of the destroyed or 
+damaged property thereby insured as may be incurred solely by reason of the necessity to comply with 
+Building or other Regulations under or framed in pursuance of any Government Act or Bye-laws of any 
+Municipal or Local Authority provided that 
+ 
+(1) 
+The amount recoverable under this extension shall not include  
+ 
+(a) 
+The cost incurred in complying with any of the aforesaid Regulations or Bye-laws 
+ 
+(i) 
+in respect of loss destruction or damage occurring prior to the granting of this 
+extension      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii) 
+in respect of loss destruction or damage not insured by the Policy 
+ 
+ 
+(iii) 
+under which notice has been served upon the Insured prior to the happening of 
+the loss destruction or damage 
+ 
+(iv) 
+in respect of undamaged property or undamaged portions of the property 
+ 
+(b) 
+the additional cost that would have been required to make good the property loss 
+damaged or destroyed to a condition equal to its condition when new had the necessity 
+to comply with any of the aforesaid Regulations or Bye-Laws not arisen 
+ 
+(c) 
+the amount of any rate tax duty development or other charge or assessment arising out 
+of capital appreciation which may be payable in respect of the property or by the owner 
+thereof by reason of compliance with any of the aforesaid Regulations or Bye-laws.  
+ 
+(2) 
+The work of reinstatement must be commenced and carried out with reasonable despatch and in 
+any case must be completed within twelve months after the lost destruction or damage or within 
+such further time as the Insurer may (during the said twelve months) in writing allow and may be 
+carried out wholly or partially upon another site (if the aforesaid Regulations or Bye-laws 
+necessitate) subject to the liability of the Insurer under this extension not being thereby 
+increased. 
+ 
+ 
+(3) 
+If the liability of the Insurer under (any item of) the Policy apart from this extension shall be 
+reduced by the application of any of the terms and conditions of the Policy then the liability of the 
+Insurer under this extension (in respect of any such item) shall be reduced in like proportion. 
+ 
+(4) 
+The total amount recoverable under any item of the Policy shall not exceed the sum insured 
+thereby 
+ 
+(5) 
+All the conditions of the Policy except insofar as they may be hereby expressly varied shall apply 
+as if they had been incorporated herein. 
+                                   
+
+
+=== PAGE 14 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 13 
+5. 
+CAPITAL ADDITIONS CLAUSE 
+ 
+The insurance hereby extends to cover alterations additions and improvements (but not appreciation in 
+value in excess of the Sum Insured) to the property insured under this Policy hereof for an amount not 
+exceeding RM2,000,000/- (Malaysian Ringgit Two million only) it being understood that the Insured 
+undertake to advise the Insurer each quarter of such alterations additions and improvements and to pay 
+the appropriate additional premium thereon. 
+ 
+6. 
+DESIGNATION CLAUSE 
+ 
+For the purpose of determining where necessary the heading under which any property is insured the 
+Insurer agrees to accept the designation under which such property had been entered in the Insured’s 
+books. 
+ 
+7. 
+AUTOMATIC REINSTATEMENT OF LOSS CLAUSE  
+ 
+In the event of the Insurer meeting a claim under this Policy in respect of loss or damage to property 
+insured the Insurer will (in the absence of written notice by the Insured to the contrary) automatically 
+reinstate the sum or sums insured in full from the time of such loss or damage and the Insured shall pay 
+to the Insurer a proportionate additional premium calculated from the time of such loss or damage 
+provided always that the Insurer’s liability in respect of each and every occurrence shall in no case 
+exceed in respect of each item the sum stated in the Schedule for which such item is insured. 
+ 
+8. 
+TEMPORARY REMOVAL CLAUSE 
+ 
+ 
+The property insured under this Policy is covered (limited to RM2,000,000/- Malaysian Ringgit Two million 
+only) whilst temporarily removed for cleaning renovation modification repair or other similar purpose 
+elsewhere on the same or to any other premises and in transit thereto and therefrom by road, rail, or 
+inland waterway all in Malaysia. 
+ 
+The amount recoverable under this extension in respect of the property so removed shall not exceed the 
+amount which would have been recoverable had the loss or damage occurred in that part of the premises 
+from which the property is temporarily removed. 
+ 
+This extension does not apply to property if and so far as it is otherwise insured nor does it apply to items 
+covering stock and merchandise of every description nor as regards losses occurring elsewhere than at 
+the premises from which the property is temporarily removed to  
+ 
+ 
+ 
+(a) 
+Motor vehicles and motor chassis 
+ 
+ 
+(b) 
+Property (other than machinery and plant) held by the Insured in trust. 
+ 
+9. 
+STOCK DECLARATION 
+ 
+(a) 
+In consideration of the premium by this Policy being provisional in that it is calculated on 100% of 
+the sum insured hereby and is subject to adjustment on expiry of each period of insurance 
+ 
+The Insured AGREES to declare to the Insurer in writing the value of the insured stocks (other 
+than retail) less any amount insured by policies other than declaration policies on the basis of the 
+average of the value at risk on each day of the month and to make such declaration within thirty 
+days of the expiry of each calendar month such declaration to be signed by the Insured or by a 
+responsible person authorized to sign on his behalf. 
+ 
+If other policies on declaration basis cover the stocks hereby insured the declaration shall be 
+made so as to apportion to each policy a share of the value of the stocks insured under such 
+declaration policies pro rate to the respective amounts named in the policies. 
+ 
+In the event of a declaration not being made within the thirty days mentioned above then the 
+Insured shall be deemed to have declared the sum insured hereby as the value at risk.  On the 
+expiry of each period of insurance the premium shall be calculated at the agreed rate on the 
+average sum insured namely the total of the values declared or deemed to have been declared 
+divided by the number of declarations due to have been made.  If the resultant premium be 
+greater than the provisional premium the Insured shall pay the difference if it be less the 
+difference shall be repaid to the Insured but such repayment shall not exceed 50% of the 
+provisional premium. 
+ 
+(b) 
+The basis of value for declaration shall be the market value and any loss or damage hereunder 
+shall be settled on the basis of the market value immediately anterior to the loss or damage. 
+ 
+(c) 
+If at the time of any loss or damage there be any other subsisting insurance or insurances on 
+other than a declaration basis whether effected by the Insured or by any other person or persons 
+covering the stocks hereby insured this Policy shall apply only to the excess of the value of such 
+stocks at the time of the loss or damage over the sum insured by such insurance or insurances 
+
+
+=== PAGE 15 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 14 
+and this Insurer shall not be liable to pay or contribute more than that proportion of such loss or 
+damage which such excess (or if there be other declaration insurances covering the same stocks 
+a rateable proportion of such excess) but not exceeding the sum insured hereby bears to the 
+total value of the stocks. 
+ 
+(d) 
+If after the occurrence of a loss or damage it is found that the amount of the last declaration 
+previous to the loss or damage is less than the amount that ought to have been declared then 
+the amount which would have been recoverable by the Insured shall be reduced in such 
+proportion as the amount of the said last declaration bears to the amount that ought to have 
+been declared. 
+ 
+(e) 
+Notwithstanding the occurrence of a loss or damage it is understood that the sum insured will be 
+maintained at all times during the currency of the Policy and the Insured therefore undertakes to 
+pay extra premium on the amount of any loss pro rata from the date of such loss or damage to 
+the expiry of the period of insurance the premium being calculated at the rate applicable to the 
+stocks destroyed and such extra premium shall not be taken into account in and shall be distinct 
+from the final adjustment of premium. 
+ 
+(f) 
+In the event of this Policy being cancelled by the Insured during its currency (whether stocks 
+exist or not) the premium to be retained by the Insurer shall be the pro rata proportion of the 
+premium calculated on the average amount insured up to the date of cancelment or 50% of the 
+provisional premium whichever is the greater but if the Policy is cancelled by the Insured after a 
+loss or damage has occurred the premium to be retained by the Insurer shall be the pro rata 
+proportion of the premium calculated on the average amount up to the date of cancelment plus 
+the pro rata proportion of the premium from the date of loss or damage to the expiry of the 
+period of insurance in the amount of the loss paid or 50% of the provisional premium whichever 
+is the greater. 
+ 
+ 
+(g) 
+The maximum liability of the Insurer shall not exceed the sum insured hereby and premium shall 
+not be  receivable on values in excess thereof.  The sum insured may however be increased by 
+prior agreement with the Insurer in which event the new sum insured and the date from which it 
+is effective will be recorded on the Policy by endorsement 
+ 
+ 
+(h) 
+If the stocks hereby insured shall at the time of loss or damage be collectively of greater value 
+than the sum insured thereon then the Insured shall be considered as being his own insurer for 
+the difference and shall bear a rateable proportion of the loss accordingly. Every item if more 
+than one on stocks (other than retail) shall be separately subject to this condition. 
+ 
+ 
+(i) 
+It is warranted that every other policy on a declaration basis covering the stocks insured hereby 
+shall be identical in wording with this Policy. 
+ 
+(j) 
+This insurance is subject in all respects to the printed conditions of the Policy except insofar as 
+they may be varied by these Special Conditions. 
+    
+ 
+10. 
+ARCHITECT’S, SURVEYOR’S ENGINEER’S AND CONSULTANT’S FEES  
+ 
+(with separate sum insured). 
+ 
+ The insurance by this item(s) is in respect of Architect's Surveyor's and Consulting Engineer's fees for 
+estimates plans specifications quantities tenders and supervision necessarily incurred in the reinstatement 
+of the property insured consequent upon its loss destruction or damage but not such fees for preparing 
+any claim hereunder. The amount payable for such fees shall not exceed those authorised under the 
+scales of the Associations of the respective professions prevailing at the time of loss or damage subject to 
+the limit of the sum insured on this item(s). 
+ 
+11. 
+ARCHITECT’S, SURVEYOR’S ENGINEER’S AND CONSULTANT’S FEES 
+ 
+ (without separate sum insured). 
+ 
+The insurance on buildings plant and machinery hereby insured includes Architect’s Surveyor’s and 
+Consulting Engineer’s fees for estimates plans specifications quantities tenders and supervision 
+necessarily incurred in the reinstatement of the property insured consequent upon its loss destruction or 
+damage but not such fees for preparing any claim hereunder.  The amount payable for such fees shall not 
+exceed those authorized under the scales of the Associations of the respective professions prevailing at 
+the time of loss destruction or damage subject to the Insurers maximum liability for any loss damage and 
+fees not exceeding the sum insured against each item. 
+ 
+ 
+12. 
+REMOVAL OF DEBRIS (with separate sum insured)  
+ 
+
+
+=== PAGE 16 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 15 
+The insurance by this item is in respect of costs and expenses necessarily incurred by the Insured with the 
+consent of the Insurer in the :-  
+(a) 
+removal of debris  
+(b) 
+dismantling and/or demolishing  
+(c)  
+shoring up or propping  
+ 
+of the portion or portions of the property insured by this policy destroyed or damaged by any peril hereby 
+insured against. (Item (b) and (c) above are deemed to be deleted when neither Building nor machinery 
+are insured).  
+ 
+The Company will not pay any costs or expenses  
+ 
+(i) 
+incurred in removing debris except from the site of such property destroyed or damaged and the 
+area immediately adjacent to such site.  
+ 
+(ii) 
+arising from pollution or contamination of property not insured by this policy. 
+ 
+ 
+13. 
+REMOVAL OF DEBRIS (without separate sum insured) 
+ 
+The insurance on Item(s)  as specified in the Policy Schedule hereby insured includes costs and expenses 
+necessarily incurred by the Insured with the consent of the Insurer in the:- 
+ 
+ 
+(a) 
+removal of debris 
+ 
+ 
+ 
+ 
+(b) 
+dismantling and/or demolishing 
+ 
+ 
+(c) 
+shoring up or propping 
+ 
+of the portion or portions of the property insured by the said Item(s) above of this policy destroyed or 
+damaged by any perils hereby insured against.  [Items (b) and (c) above are deemed to be deleted when 
+neither building nor machinery is insured.] 
+ 
+The amount payable for such costs and expenses shall not exceed 10% of the Sum Insured of each Item 
+or RM2,000,000 whichever is lower. 
+ 
+ 
+The Insurer will not pay any costs or expenses 
+ 
+(i)   
+incurred in removing debris except from the site of such property destroyed or damaged and the 
+area immediately adjacent to such site. 
+ 
+ 
+(ii) 
+arising from pollution or contamination of property not insured by this policy. 
+ 
+ 
+ 
+Provided always the Insurer’s maximum liability shall not exceed the sum stated in the Schedule for which 
+the Item(s) is/are insured. 
+ 
+ 
+14. 
+CONTRACT PRICE  
+ 
+It is agreed that in respect only of goods sold but not delivered for which the Insured is responsible and 
+with regard to which under the conditions of the sale the sale contract is cancelled by reason of loss or 
+damage hereby Insured against either wholly or to the extent of the loss or damage the liability of the 
+Insurer shall be based on the contract price and for the purpose of calculating the value of all goods to 
+which this clause would in the event of destruction or damage be applicable the same basis shall be used. 
+ 
+15. 
+COMPUTER SYSTEMS RECORDS 
+ 
+Computer systems records are insured only for the value of the materials together with the cost of clerical 
+labour and computer time expended in reproducing such records (excluding any expenses in connection 
+with the production of information to be recorded therein) and not for the value of the information 
+contained therein. 
+ 
+16. 
+TEMPORARY STORAGE CLAUSE 
+ 
+ 
+The property (excluding buildings) insured under this Policy is covered whilst temporarily stored anywhere 
+in Malaysia and Singapore PROVIDED that  
+ 
+ 
+(a) 
+the period of temporarily storage shall not exceed one hundred eight (180) days 
+ 
+
+
+=== PAGE 17 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 16 
+(b) 
+the liability of the Insurer is limited to RM500,000 (Malaysian Ringgit five hundred thousand  only) 
+for property covered under this clause 
+ 
+(c) 
+the Insurer shall not be liable for any loss or damage to the property whilst in transit (including the 
+processes of loading and unloading incidental to such transit)  
+ 
+(d) 
+this insurance does not apply to property in so far as it is otherwise insured nor does it apply to 
+motor vehicles and motor chassis 
+ 
+17. 
+APPRAISEMENT CLAUSE 
+ 
+ 
+If the aggregate claim for any one loss or damage does not exceed RM5,000 (Malaysian Ringgit five 
+thousand only) by the item or items affected no special inventory or appraisement of the undamaged 
+property shall be required.  
+ 
+If two or more buildings be included in a single item this provision shall apply to the range of buildings 
+and/or contents by the item or items affected. 
+ 
+18. 
+VEHICLE LOAD CLAUSE 
+ 
+In the event of any of the Insured’s vehicles being left loaded overnight whilst in or on the premises 
+described in the specification hereto the Insurer will indemnify the Insured in respect of such load in the 
+event of loss or damage by any of the perils insured against by this Policy. 
+ 
+19. 
+ALTERATIONS AND REPAIRS CLAUSE 
+ 
+ 
+Workmen are allowed on or about the insured property to carry out alterations and repairs provided the 
+trade manufacture nature of occupation and/or construction of the building remains unchanged. 
+ 
+20.  
+UNVALUED POLICY CLAUSE 
+ 
+This  is  an unvalued policy. The onus is on the Insured to prove the actual value  of  the  Property  
+insured  at  the  time  of  the  happening  of its destruction or the actual amount of such damage. 
+ 
+ 
+E.   
+CLAUSES  (APPLICABLE TO SECTIONS II, ONLY IF IT IS STATED IN THE POLICY SCHEDULE) 
+ 
+1. 
+SPECIFIED SUPPLIERS' PREMISES  
+ 
+In consideration of the payment of an additional premium which is included in the premium hereon it is hereby 
+agreed and declared that, subject to the conditions of the policy, loss as insured by Items(s) No.(s)........... of this 
+policy resulting from interruptions of or interference with the business in consequence of damage as insured under 
+the material damage section of the policy, to property at the undernoted situations shall be deemed to be loss 
+resulting from damage to property used by the insured at the premises.  
+ 
+Provided that the liability under this memorandum in respect of any one location under (each of) Item(s) No(s) ...... 
+shall not exceed the percentage of the sum insured thereunder shown against each situation.  
+ 
+Supplier  
+Situation  
+ 
+ 
+Insurers Liability  
+_______________  
+________________  
+ 
+__________________  
+_______________  
+________________  
+ 
+__________________  
+ 
+Insurers will only be liable for any loss indemnifiable under this extension once the period of the loss has exceeded 
+seventy two (72) hours from the time that the insured is first impacted by a shortage in supplies and shall continue 
+until such time that supplies have been restored in sufficient quantities to enable the insured to maintain the pre 
+loss level of production.  
+ 
+2. 
+ UNSPECIFIED SUPPLIERS' PREMISES  
+ 
+In consideration of the payment of an additional premium which is included in the premium hereon it is hereby 
+agreed and declared that, subject to the conditions of the policy, loss as insured by Items(s) No.(s)........... of this 
+policy resulting from interruptions of or interference with the business in consequence of damage as insured under 
+the material damage section of the policy, to property at the under-noted situations shall be deemed to be loss 
+resulting from damage to property used by the insured at the premises.  
+ 
+
+
+=== PAGE 18 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 17 
+Provided that the liability under this memorandum in respect of any one location shall not exceed 10% of the sum 
+insured thereunder or RM10 million, whichever is the lower.  
+ 
+Situations:  
+The premises situate in Malaysia, Singapore or Brunei of any other of the insured's suppliers, manufacturers or 
+processors of components, goods and materials.  
+ 
+Insurers will only be liable for any loss indemnifiable under this extension once the period of the loss has exceeded 
+seventy (72) hours from the time that the insured is first impacted by a shortage in supplies and shall continue until 
+such time that supplies have been restored in sufficient quantities to enable the insured to maintain the pre loss 
+level of production. 
+ 
+ 
+3. 
+SPECIFIED CUSTOMERS' PREMISES  
+ 
+In consideration of the payment of an additional premium which is included in the premium hereon it is hereby 
+agreed and declared that subject to the conditions of the policy, loss as insured by Item(s) No(s) ......... of this policy 
+resulting from interruption or interference with the business in consequence of damage as insured under the 
+material damage section of the policy, to property at any premises in Malaysia, Singapore or Brunei of the 
+undernoted customer(s) shall be deemed to be loss resulting from damage to property used by the insured at the 
+premises.  
+ 
+Provided that if the percentage shown below against the name of the Customer at whose premises damage has 
+occurred shall be less than the percentage of the annual turnover derived by the insured from that customer, the 
+amount otherwise payable under the terms of this memorandum in respect of that customer shall be proportionately 
+reduced.  
+ 
+Customer  
+ 
+Situation  
+ 
+Limit of Liability  
+_______________  
+________________  
+__________________  
+_______________ 
+________________  
+__________________  
+ 
+PROVIDED that the Insurers shall not be liable for any loss insured by this extension unless interruption of or 
+interference with the Business of the Insured exceeds a period of seventy-two (72) hours and the liability of the 
+insurer under this extension shall apply only to such period in excess of seventy-two (72) hours. 
+ 
+4. 
+PREVENTION OF ACCESS 
+ 
+In  consideration of the  payment of an additional premium which is included in the  premium hereon  it is 
+hereby agreed and declared that subject to the conditions of the Policy, loss as insured by the Item(s) 
+No(s)  specified in the Schedule  of this Policy resulting from interruptions of or interference with  the  
+business in  consequence  of damage  as insured under the material damage section of the policy to  
+property in  the  vicinity  of  the  Insured's  premises  which shall  prevent  or  hinder  the  use  thereof or 
+access thereto, whether the premises or property  of the insured therein  shall be damaged or not, shall be  
+deemed to be loss  resulting from damage to property used by the insured at the premises. 
+  
+Indemnity Period shall mean the period during which the results of the Business shall be affected in 
+consequence of the accident, beginning with the date of the occurrence and ending not later than the 
+Maximum Indemnity Period thereafter. 
+ 
+Maximum Indemnity Period shall mean the Indemnity Period as specified in the Specification of the Policy. 
+ 
+The Insurer’s liability under this memorandum shall not exceed 10% of the Sum Insured or RM10 million, 
+whichever is lower in any one period of insurance, after the application of all other terms and conditions of 
+the policy. 
+ 
+PROVIDED that the Insurers shall not be liable for any loss insured by this extension unless interruption of 
+or interference with the Business of the Insured exceeds a period of seventy-two (72) hours and the 
+liability of the insurer under this extension shall apply only to such period in excess of seventy-two (72) 
+hours.  
+ 
+ 
+5. 
+PUBLIC UTILITIES 
+ 
+ 
+In consideration of the payment of additional premium it is hereby declared that subject to the conditions 
+of the Policy loss as insured by this Policy resulting from interruption of or interference with the business 
+
+
+=== PAGE 19 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 18 
+consequent upon failure of public supplies of electricity/water/gas (whichever is applicable) resulting from 
+a damage as defined in the Policy at any: 
+ 
+ 
+- 
+generating station or substation of the public electricity supply undertaking. 
+ 
+- 
+land based premises of the public gas supply undertaking or of any natural gas producer linked 
+directly therewith,  
+ 
+ 
+ 
+   
+ 
+- 
+water works or pumping station of the public water supply undertaking, 
+ 
+from which the Insured obtains electricity/water/gas (whichever is applicable) shall be deemed to be loss 
+resulting from damage to property used by the Insured at the premises.  Any transmission lines or pipes 
+feeding to the Insured’s premises are not included. 
+ 
+A deliberate act of the supply undertaking not performed for the purpose of safeguarding life or protecting 
+the system and rationing not necessitated solely by accidental damage to the supply undertaking’s 
+equipment are excluded 
+ 
+PROVIDED that the Insurers shall not be liable for any loss insured by this extension unless failure of the 
+public supplies of electricity exceeds a period of seventy-two (72) hours and the liability of the insurer 
+under this extension shall apply only to such period in excess of seventy-two (72) hours. 
+ 
+ 
+6. 
+INFECTIOUS OR CONTAGIOUS DISEASES, MURDER, SUICIDE, PEST, FOOD OR DRINK 
+POISONING; OR DEFECTIVE SANITARY ARRANGEMENTS 
+ 
+It is hereby agreed and declared  that  the  insurance  of  this  Policy  is extended to cover contingencies 
+hereunder specified :- 
+ 
+(i) 
+Human infectious or contagious disease manifested within by  any person whilst in the Premises 
+ 
+(ii)     
+Murder or suicide occurring at the Premises 
+ 
+(iii)    
+Injury or illness sustained by any person arising from or  traceable to foreign injurious matter in 
+the  food or  drink  provided on  the Premises 
+ 
+(iv)    
+Vermin or pets at the Premises 
+ 
+(v)     
+Defects in  the  drains  and  other  sanitary  arrangements  at  the Premises 
+ 
+which directly and solely results in the restriction of use of the  Premises (whether total or partial) by the 
+order of the competent  public  authority. 
+ 
+Any interruption of or interference with the  Business  of  the  Insured  in accordance with the provisions 
+herein contained in  the  Schedule  shall  be deemed to be DAMAGE as herein defined under the Policy. 
+ 
+                           SPECIAL CONDITIONS 
+ 
+1.    
+Notifiable Disease or illness shall mean illness sustained by any person resulting 
+      
+from - 
+ 
+      
+(a)    
+food or drink poisoning, or 
+ 
+(b)    
+any  human  infectious  or human  contagious  disease  [excluding Acquired  Immune 
+Deficiency Syndrome (AIDS)]  
+ 
+an outbreak of which the competent local authority has stipulated shall be notified to them. 
+ 
+2.    
+For the purpose of this memorandum 
+ 
+Indemnity Period shall mean the period during which the results of  the  Business shall be 
+affected in consequence of the  occurrence  discovery or accident, beginning - 
+ 
+(a)    
+in the case  of  (i), (iv) and  (v)  above,  with  the  date  of  the  occurrence or discovery 
+ 
+(b)   
+ in the case of (ii) and (iii) above, with the date from which the restrictions on the 
+Premises are applied. 
+
+
+=== PAGE 20 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 19 
+ 
+and ending not later than when restrictions are lifted or the Maximum Indemnity Period thereafter, 
+whichever is the shorter period. 
+ 
+Maximum  Indemnity  Period shall mean the Indemnity Period as specified in the Specification of 
+the Policy. 
+ 
+Premises shall  mean  only  those  locations  stated  in  the  Premises  definition; in the event  
+that the policy includes  an  extension  which deems loss destruction or damage at other 
+locations to be  an  Incident  such extension shall not apply to this memorandum. 
+ 
+ 
+3. 
+The Insurer shall not be liable under this  memorandum  for  any  costs incurred in the cleaning, 
+repair, replacement, recall  or  checking  of  property. 
+ 
+4.    
+The Insurer shall only be liable for the loss arising at those Premises   
+which 
+are 
+directly 
+affected by the occurrence  discovery  or  accident. 
+ 
+5.    
+The  Insurer's liability under this  memorandum  shall  not  exceed 10% of Sum Insured or RM10 
+million, whichever is lower in any one period of insurance, after the application of all other terms  
+and conditions  of  the policy. 
+ 
+Provided that the Insurers shall not be liable for any loss insured by this extension unless interruption of or 
+interference with the Business of the Insured exceeds a period of seventy-two (72) hours and the liability 
+of the insurer under this extension shall apply only to such period in excess of  seventy-two (72) hours. 
+ 
+ 
+7.  
+ACCOUNTANTS’ CLAUSE 
+ 
+ 
+Any particulars or details contained in the Insured’s books or documents which may be required by the 
+Insurers under condition 6 of this Policy for the purpose of investigating or verifying any claim hereunder 
+may be produced by professional accounts if at the time they are regularly acting as such for the Insured 
+and their report shall be prima facie evidence of the particulars and details to which such report relates. 
+ 
+ 
+8. 
+PAYMENT ON ACCOUNT CLAUSE 
+ 
+Payment on account will be made to the Insured if desired provided that it is established that the loss is 
+indemnifiable under this policy.  
+ 
+ 
+9. 
+DEPARTMENTAL CLAUSE 
+ 
+If the business be conducted in departments the independent trading results of which are ascertainable 
+the provisions of Clauses (a) and (b) of Item 1 of the specifications attached shall apply separately to each 
+Department affected by the damage except that if the Sum Insured by the said item be less than the 
+aggregate of the Sums produced by applying the rate of Gross Profit for each department of the business  
+(whether affected by the damage or not) to the relative annual output thereof, the amount payable shall be 
+proportionately reduced. 
+ 
+ 
+10. 
+UPWARD ADJUSTMENT CLAUSE 
+ 
+ 
+In the  event of the *Gross Profit earned during any annual period of insurance (or during the accounting 
+period of 12  months more nearly concurrent with  any period of insurance) as certified by the  Insured's 
+Auditors  being greater  than the  Sum Insured  thereon,  the Insured will be held covered to the  extent of           
+%  of the Sum Insured thereof and pro-rata  additional premium  not exceeding  75% of the premium paid 
+on such Sum Insured for such period of insurance will be  charged in respect of the difference. 
+ 
+N.B. The maximum percentage of upward adjustment shall be limited to 25% only. An additional premium 
+calculated at 75% of the upward adjustment percentage shall be imposed. This  additional  premium  shall 
+be  treated as  provisional, and  shall  be adjusted  in accordance  to the  actual  Gross Profit earned as 
+certified by the Insured's auditors. 
+ 
+ 
+11. 
+ALTERNATIVE BASIS CLAUSE 
+ 
+It is agreed and declared that in the event of a claim, adjustment may be based on ‘Turnover or Output’ 
+whichever affords the most equitable result, and except in the definition of turnover the word ‘Turnover’ 
+wherever used in this Policy shall read as ‘Turnover or Output’. ‘Output’ shall mean sale value of goods 
+
+
+=== PAGE 21 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 20 
+manufactured by, or sold by, the Insured in the course of the Business at the Premises, provided that: (a) 
+only one such meaning shall be operative in connection with any one occurrence involving damage as 
+within defined. (b) if the meaning set out in this Clause be used MEMO 1 shall be held to be altered to 
+read as follows:  
+ 
+ 
+Alternative Trading Clause 
+ 
+If during the Indemnity Period goods shall be manufactured elsewhere than at The Premises affected by 
+the damage for the benefit of The Business either by the Insured or by others on the Insured’s behalf the 
+sale value of the goods so manufactured shall be brought into account in arriving at the output during the 
+Indemnity Period 
+ 
+ 
+12. 
+SALVAGE SALES CLAUSE 
+ 
+If, following damage giving rise to a claim under this Policy, the Insured shall hold a salvage sale during 
+the Indemnity Period, Clause (a) of Item No. 1 of the specifications attached shall for the purpose of such 
+claim read as follows: - 
+ 
+ 
+(a) IN RESPECT OF REDUCTION IN TURNOVER: the sum produced by applying Rate of Gross Profit 
+to the amount by which the Turnover during the Indemnity Period (less the Turnover for the period of 
+the salvage sale) shall in consequence of the damage, fall short of the Standard Turnover from which 
+sum shall be deducted from the Gross Profit actually earned during the period of the salvage sale 
+ 
+ 
+13. 
+REINSTATEMENT OF LOSS CLAUSE     
+ 
+In consideration of the Insured undertaking to pay an additional premium at the agreed rate on the amount 
+of loss calculated on a pro rata basis from the date of such loss to the expiry of the current period of 
+insurance, it is agreed that in the event of loss the insurance hereunder shall be maintained in force for the 
+full sum insured.   
+ 
+ 
+14. 
+INTERDEPENDENCY CLAUSE 
+ 
+It is hereby expressly declared and agreed that if damage to any of the joint Insured’s premises/property 
+should result in another of the Insured suffering a reduction in turnover or increase in cost of working then 
+such loss is deemed to be covered by this Policy notwithstanding that no material damage was sustained 
+by the latter premises/property. 
+ 
+ 
+15. 
+ACCUMULATION OF STOCK CLAUSE 
+ 
+In adjusting any loss account shall be taken and an equitable allowance made if any shortage of turnover 
+due to the damage is postponed by reason of the turnover being temporarily maintained from accumulated 
+stock of finished goods in warehouses and/or depots. 
+ 
+ 
+16.  
+NEW BUSINESS CLAUSE  
+ 
+For the purpose of any claim arising from damage occurring before the completion of the first year's trading of the 
+business at the premises, the terms, `Rate of Gross Profit' `Annual Turnover' and `Standard Turnover' shall bear 
+the following meanings and not as within stated:-  
+ 
+Rate of Gross Profit  
+ 
+The rate of gross profit 
+ 
+ 
+)  to which such adjustment shall  
+earned on the turnover during  
+ 
+)  be made as may be necessary to  
+the period between the  
+ 
+ 
+)  provide for the trend of the  
+commencement of the business  
+ 
+)  business and the variations  
+and the date of the damage  
+ 
+)  in or special circumstances  
+  
+ 
+ 
+ 
+ 
+)  affecting the business either 
+Annual Turnover  
+ 
+ 
+)  before or after the damage or  
+ 
+ 
+ 
+ 
+ 
+)  which would have affected the  
+The proportional equivalent for 
+ 
+)  business had the damage not  
+the period of twelve months of  
+ 
+)  occurred, so that the figures  
+the turnover realised during  
+ 
+)  thus adjusted shall represent  
+the period between the 
+ 
+ 
+)  as nearly as may be reasonably  
+commencement of the business 
+ 
+)  practicable the results which  
+
+
+=== PAGE 22 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 21 
+and the date of the damage 
+ 
+)  but for the damage would have  
+ 
+ 
+ 
+ 
+ 
+)  been obtained during the  
+Standard Turnover  
+ 
+ 
+)  relative period after the  
+ 
+ 
+ 
+ 
+ 
+)  damage  
+The proportional equivalent for  
+ 
+)  
+a period equal to the Indemnity 
+ 
+)  
+Period, of the Turnover 
+ 
+ 
+)  
+realised during the period   
+ 
+)  
+between the commencement of  
+ 
+)  
+the business and the date of 
+ 
+)  
+the damage 
+ 
+ 
+ 
+)  
+ 
+After twelve months of trading have been completed the normal specification wording operates. 
+ 
+ 
+F.  
+SPECIFICATIONS (APPLICABLE TO SECTIONS II, ONLY IF IT IS STATED IN THE POLICY 
+SCHEDULE) 
+ 
+ 
+1. 
+GROSS PROFIT DIFFERENCE BASIS WORDING 
+ 
+ SPECIFICATION referred to in Policy No : _____________ in the name of _______________________ and 
+forming an integral part of that policy. 
+ 
+ 
+Item No. 
+ 
+ 
+ 
+ 
+ 
+Sum Insured 
+       
+ 
+1. On Gross Profit 
+ 
+ 
+ 
+ 
+As specified in the Policy Schedule 
+ 
+ 
+ 
+THE INSURANCE UNDER ITEM NO. 1 is limited to loss of Gross Profit due to (a) REDUCTION IN 
+TURNOVER and (b) INCREASE IN COST OF WORKING and the amount payable as Indemnity thereunder 
+shall be : 
+ 
+(a) IN RESPECT OF REDUCTION IN TURNOVER : The sum produced by applying the Rate of Gross 
+Profit to the amount by which the Turnover during the Indemnity Period shall in consequence of the 
+damage fall short of the Standard Turnover. 
+ 
+(b) IN RESPECT OF INCREASE IN COST OF WORKING : The additional expenditure (subject to the 
+provisions of the Uninsured Standing Charges Clause) necessarily and reasonably incurred for the sole 
+purpose of avoiding or diminishing the reduction in Turnover which but for that expenditure would have 
+taken place during the Indemnity Period in consequence of the damage but not exceeding the sum 
+produced by applying the Rate of Gross Profit to the amount of the reduction thereby avoided : 
+ 
+less any sum saved during the Indemnity Period in respect of such of the charges and expenses of the 
+business payable out of Gross Profit as may cease or be reduced in consequence of the damage : 
+ 
+ 
+ 
+provided that if the Sum Insured by this Item be less than the sum produced by applying the rate of Gross 
+Profit to the Annual Turnover (or to a proportionately increased multiple thereof where the Maximum 
+Indemnity Period exceeds twelve months) the amount payable shall be proportionately reduced. 
+ 
+ 
+DEFINITIONS 
+ 
+
+
+=== PAGE 23 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 22 
+GROSS PROFIT
+The amount by which the sum of the Turnover, Closing Stock and Work-In-
+Progress shall exceed the sum of the Opening Stock, Work-in- Progress and the 
+Specified Working Expenses. 
+ 
+N.B. 1 
+The amount of the Opening and Closing Stocks shall be arrived at in accordance 
+with the Insured's normal accountancy methods, due provision being made for 
+depreciation. 
+N.B. 2 
+The words and expressions used in this Definition shall have the meaning usually 
+attached to them in the books and accounts of the Insured unless otherwise 
+defined in this specification. 
+ 
+ 
+SPECIFIED 
+As specified in the Policy Schedule 
+ 
+WORKING
+ 
+ 
+EXPENSES 
+ 
+ 
+ 
+TURNOVER
+The money (less discount allowed) paid or payable to the Insured for goods sold and 
+delivered and for services rendered in course of the business at the premises. 
+ 
+INDEMNITY
+PERIOD 
+ 
+The period beginning with the occurrence of the damage and ending not later than the 
+Maximum Indemnity Period thereafter during which the results of the business shall be 
+affected in consequence of the damage. 
+ 
+MAXIMUM
+INDEMNITY 
+PERIOD 
+ 
+As specified in the Policy Schedule  
+RATE OF GROSS PROFIT
+The rate of Gross Profit earned on the 
+Turnover 
+during 
+the 
+financial 
+year 
+immediately before the date of damage 
+ 
+ANNUAL TURNOVER 
+The Turnover during the twelve months 
+immediately before the date of the damage 
+ 
+STANDARD TURNOVER 
+The Turnover during that period in the twelve 
+months immediately before the date of the 
+damage 
+which 
+corresponds 
+with 
+the 
+Indemnity Period. 
+) 
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+ 
+to which such adjustment shall be made as may 
+be necessary to provide for the trend of the 
+business and for variations in or special 
+circumstances affecting the business either 
+before or after the damage or which would have 
+affected the business had the damage not 
+occurred, so that the figures thus adjusted shall 
+represent as   nearly   as   may   be   
+reasonably practicable the results which but for 
+the damage would have been obtained during 
+the relative period after the damage. 
+ 
+ 
+Alternative Trading Clause.  If during the Indemnity Period goods shall be sold or services shall be 
+rendered elsewhere than at the premises for the benefit of the business either by the Insured or by others on 
+his behalf the money paid or payable in respect of such sales or services shall be brought into account in 
+arriving at the Turnover during the Indemnity Period. 
+ 
+ 
+ Uninsured Standing Charges Clause.  If any standing charges of the business be not insured by this policy 
+(having been deducted in arriving at the Gross Profit as defined herein) then in computing the amount 
+recoverable hereunder as Increase in Cost of Working that proportion only of the additional expenditure shall 
+be brought into account which the Gross Profit bears to the sum of the Gross Profit and all the Uninsured 
+Standing Charges. 
+ 
+ 
+Premium Adjustment Clause.  In the event of the Gross Profit (or a proportionately increased multiple 
+thereof where the Maximum Indemnity Period exceeds twelve months) earned during the accounting period 
+of twelve months most nearly concurrent with any period of insurance as certified by the Insured's Auditors, 
+being less than the sum insured thereon a pro-rata return of premium not exceeding fifty per cent (50%) of 
+the premium paid on such sum insured for such period of insurance will be made in respect of the difference. 
+If any damage shall have occurred giving rise to a claim under this section, such return shall be made in 
+respect only of so much of the said difference as is not due to such damage. 
+
+
+=== PAGE 24 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 23 
+ 
+ 
+2.  
+DUAL BASIS WAGES WORDING  
+ 
+SPECIFICATION referred to in Policy No : __________________ in the name of ______________________ and 
+forming an integral part of that policy.  
+ 
+Item No.  
+ 
+Sum Insured  
+ 
+1. On Wages  
+ 
+As specified in the Policy Schedule 
+ 
+ 
+THE INSURANCE UNDER ITEM NO. 1 is limited to loss in respect of Wages and the amount payable as indemnity 
+thereunder shall be :  
+ 
+(a) 
+IN RESPECT OF REDUCTION IN TURNOVER :  
+(i)  
+during the Initial Period : the sum produced by applying the Rate of Wages to the shortage in 
+turnover during such period less any saving during such period through reduction in consequence of 
+the damage in the amount of Wages paid :  
+(ii) 
+during the remaining portion of the Indemnity Period : the sum produced by applying the Rate of 
+Wages to the shortage in Turnover during such period less any saving during period through 
+reduction in consequence of the damage in the amount of Wages paid but not exceeding the sum 
+produced by applying the remainder percentage of the Rate of Wages to the shortage in Turnover 
+during the said remainder portion of the Indemnity Period increased by such amount as is deducted 
+for savings under the terms of Clause (i).  
+ 
+Note : 
+ At the option of the Insured the Alternative Period may be substituted for the Initial Period provided that 
+the amount arrived at under the provisions of Clause (a) (ii) shall not exceed such amount as is deducted 
+under Clause (a) (i) for savings effected during the Alternative Period.  
+ 
+b) 
+IN RESPECT OF INCREASE IN COST OF WORKING :  
+so much of the additional expenditure described in Clause (b) of the relative gross profit item as exceeds 
+the amount payable thereunder :  
+ 
+but not more than the additional amount which would have been payable in respect of Reduction in Turnover 
+under the provisions of Clause (a) (i) and (ii) of this Item had such expenditure not been incurred : 
+ 
+Provided that if the Sum Insured by this Item be less than the sum produced by applying the Rate of 
+Wages to the Annual Turnover (or to a proportionately increased multiple thereof where the Maximum 
+Indemnity Period exceeds twelve months) the amount payable under this Item shall be proportionately 
+reduced.  
+ 
+DEFINITIONS 
+ 
+INDEMNITY 
+The period beginning with the occurrence  
+PERIOD  
+of the damage and ending not later than the Maximum Indemnity Period thereafter 
+during which the results of the business shall be affected in consequence of the 
+damage.  
+ 
+MAXIMUM  
+_______________ months  
+INDEMNITY  
+PERIOD  
+ 
+INITIAL  
+The portion of the Indemnity Period beginning with the occurrence of the 
+PERIOD 
+damage and ending not later than ______________ weeks thereafter.  
+ 
+REMAINDER 
+______________ per cent.  
+PERCENTAGE  
+ 
+ALTERNATIVE 
+The portion of the Indemnity Period beginning with the occurrence of the 
+PERIOD  
+damage and ending not later than ________________ weeks thereafter.  
+ 
+WAGES  
+The remuneration (including EPF contribution, SOCSO, bonuses, holiday pay or other 
+payments pertaining to Wages) of all employees.  
+
+
+=== PAGE 25 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 24 
+ 
+RATE OF WAGES 
+The Rate of Wages to Turnover during the financial year immediately before the date 
+of the damage to which such adjustments shall be made as may be necessary to 
+provide for the trend of the business and for variations in or after the damage or 
+circumstances affecting the business either before or after the damage or which would 
+have affected the business had the damage not occurred, so that the figures thus 
+adjusted shall represent as nearly as may be reasonably practicable the results which 
+but for the damage would have been obtained during the relative period after the 
+damage.  
+TURNOVER  
+The money (less discount allowed) paid or payable to the Insured for goods sold and 
+delivered and for services rendered in course of the business at the premises.  
+ 
+ANNUAL  
+The Turnover during the twelve months immediately before the date of the 
+TURNOVER  
+damage.  
+ 
+STANDARD  
+The Turnover during that period in the twelve months immediately before  
+TURNOVER  
+the date of the damage which corresponds with the Indemnity Period. 
+ 
+SHORTAGE IN 
+ The amount by which the Turnover during a period shall in 
+TURNOVER  
+consequence of the damage fall short of the part of the Standard Turnover which 
+relates to that period.  
+ 
+Alternative Trading Clause. If during the Indemnity Period goods shall be sold or services shall be rendered 
+elsewhere than at the premises for the benefit of the business either by the Insured or by others on his behalf the 
+money paid or payable in respect of such sales or services shall be brought into account in arriving at the Turnover 
+during the Indemnity Period.  
+ 
+Uninsured Standing Charges Clause. If any standing charges of the business be not insured by this policy 
+(having been deducted in arriving at the Gross Profit as defined herein) then in computing the amount recoverable 
+hereunder as Increase in Cost of Working that proportion only of the additional expenditure shall be brought into 
+account which the Gross Profit bears to the sum of the Gross Profit and all the Uninsured Standing Charges.  
+ 
+Premium Adjustment Clause. In the event of the Wages (or a proportionately increased multiple thereof where 
+the Maximum Indemnity Period exceeds twelve months) earned during the accounting period of twelve months 
+most nearly concurrent with any period of insurance as certified by the Insured's Auditors, being less than the sum 
+insured thereon a pro-rata return of premium not exceeding fifty per cent (50%) of the premium paid on such sum 
+insured for such period of insurance will be made in respect of the difference. If any damage shall have occurred 
+giving rise to a claim under this section, such return shall be made in respect only of so much of the said difference 
+as is not due to such damage.  
+This Premium Adjustment Clause is only valid for twelve (12) months from the date of expiry of the Policy. 
+ 
+ 
+3. 
+GROSS PROFIT ADDITION BASIS WORDINGS  
+ 
+SPECIFICATION referred to in Policy No. ______________ in the name of ____________________ and forming 
+an integral part of that policy.  
+ 
+Item No. 
+ 
+ 
+Sum Insured  
+1. On Gross Profit  
+ 
+As specified in the Policy Schedule 
+ 
+ 
+THE INSURANCE UNDER ITEM NO. 1 is limited to loss of Gross Profit due to (a) REDUCTION IN TURNOVER 
+and (b) INCREASE IN COST OF WORKING and the amount payable as Indemnity thereunder shall be :  
+(a)  
+IN RESPECT OF REDUCTION IN TURNOVER : The sum produced by applying the Rate of Gross Profit to 
+the amount by which the Turnover during the Indemnity Period shall in consequence of the damage fall 
+short of the Standard Turnover: 
+  
+(b) 
+IN RESPECT OF INCREASE IN COST OF WORKING : The additional expenditure (subject to the provisions of 
+the Uninsured Standing Charges Clause) necessarily and reasonably incurred for the sole purpose of avoiding 
+or diminishing the reduction in Turnover which but for that expenditure would have taken place during the 
+Indemnity Period in consequence of the damage but not exceeding the sum produced by applying the Rate of 
+Gross Profit to the 
+ 
+
+
+=== PAGE 26 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 25 
+less any sum saved during the Indemnity Period in respect of such of the Insured Standing Charges as may cease 
+or be reduced in consequence of the damage :  
+provided that if the Sum Insured by this Item be less than the Sum produced by applying the Rate of Gross Profit to 
+the Annual Turnover (or to a proportionately increased multiple thereof where the Maximum Indemnity Period 
+exceeds twelve months) the amount payable shall be proportionately reduced.  
+ 
+DEFINITIONS 
+ 
+GROSS PROFIT  
+The sum produced by adding to the Net Profit the amount of the Insured Standing 
+Charges or if there be no Net Profit the amount of the Insured Standing Charges less 
+such a proportion of any net trading loss as the amount of the Insured Standing 
+Charges bears to all the Standing Charges of the business.  
+NET PROFIT  
+The net trading profit (exclusive of all capital receipts and accretions and all outlay 
+properly chargeable to capital) resulting from the business of the Insured at the 
+premises after due provision has been made for all standing and other charges 
+including depreciation but before the deduction of any taxation chargeable on profits.  
+ 
+INSURED 
+  
+STANDING  
+As specified in the Policy Schedule   
+CHARGES 
+ 
+   
+  
+TURNOVER 
+The money paid or payable to the Insured for goods sold and delivered and for 
+services rendered in course of the business at the premises.  
+INDEMNITY 
+The period beginning with the occurrence of the damage and ending not  
+PERIOD  
+later than the Maximum Indemnity Period thereafter during which the results of the 
+business shall be affected in consequence of the damage.  
+ 
+MAXIMUM  
+ 
+____________________ months  
+INDEMNITY  
+PERIOD  
+ 
+RATE OF GROSS PROFIT 
+ 
+) to which such adjustment  
+The rate of Gross Profit earned  
+ 
+) shall be made as may be  
+on the Turnover during the  
+ 
+) necessary to provide for  
+financial year immediately   
+ 
+) the trend of the business and  
+ 
+before the date of damage  
+ 
+) for variations in or  
+ 
+ 
+ 
+ 
+ 
+) special circumstances  
+ANNUAL TURNOVER 
+ 
+ 
+) affecting the business either  
+The Turnover during the 
+ 
+ 
+) before or after the damage  
+twelve months immediately  
+ 
+) or which would have affected  
+before the date of the damage  
+ 
+) the business had the damage  
+ 
+  
+ 
+ 
+ 
+) not occurred, so that the 
+STANDARD TURNOVER   
+ 
+) figures thus adjusted shall  
+The Turnover during that   
+ 
+) represent as nearly as may be  
+period in the twelve 
+ 
+ 
+) reasonably practicable the  
+months immediately before  
+ 
+) results which but for the  
+the date of the damage 
+ 
+ 
+) damage would have been  
+which corresponds with the 
+ 
+) obtained during the  
+Indemnity Period.  
+ 
+ 
+) relative period after the 
+ 
+ 
+ 
+ 
+ 
+) damage.  
+ 
+Alternative Trading Clause. If during the Indemnity Period goods shall be sold or services shall be rendered 
+elsewhere than at the premises for the benefit of the business either by the Insured or by others on their behalf the 
+money paid or payable in respect of such sales or services shall be brought into account in arriving at the Turnover 
+during the Indemnity Period.  
+ 
+Uninsured Standing Charges Clause. If any standing charges of the business be not insured by this policy then 
+in computing the amount recoverable hereunder as Increase in Cost of Working that proportion only of the 
+additional expenditure shall be brought into account which the sum of the Net Profit and the Insured Standing 
+Charges bears to the sum of Net Profit and all the Standing Charges.  
+ 
+Premium Adjustment Clause. In the event of the Gross profit (or a proportionately increased multiple thereof 
+where the Maximum Indemnity Period exceeds twelve months) earned during the accounting period of twelve 
+months most nearly concurrent with any period of insurance as certified by the insured's Auditors being less than 
+
+
+=== PAGE 27 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 26 
+the sum insured thereon a pro-rata return of premium not exceeding fifty per cent (50%) of the premium paid on 
+such sum insured for such period of insurance will be made in respect of the difference. If any damage shall have 
+occurred giving rise to a claim under this section, such return shall be made in respect only of so much of the said 
+difference as is not due to such damage.  
+ 
+This Premium Adjustment Clause is only valid for twelve (12) months from the date of expiry of the Policy. 
+ 
+ 
+4. 
+GROSS REVENUE WORDING  
+ 
+SPECIFICATION referred to in Policy No. ______________ in the name of ____________________ and forming 
+an integral part of that policy.  
+ 
+Item No.  
+ 
+ 
+ 
+Sum Insured  
+1. On Gross Revenue  
+ 
+As specified in the Policy Schedule 
+ 
+ 
+THE INSURANCE UNDER ITEM NO. 1 is limited to (a) LOSS OF GROSS REVENUE and (b) INCREASE IN 
+COST OF WORKING and the amount payable as indemnity thereunder shall be: 
+  
+(a)  
+IN RESPECT OF LOSS OF GROSS REVENUE : The amount by which the Gross Revenue during the 
+Indemnity Period shall in consequence of the damage fall short of the Standard Gross Revenue 
+ 
+(b) 
+IN RESPECT OF INCREASE IN COST OF WORKING : The additional expenditure necessarily and 
+reasonably incurred for the sole purpose of avoiding or diminishing the reduction in Gross Revenue which 
+but for that expenditure would have taken place during the Indemnity Period in consequence of the damage 
+but not exceeding the amount of the reduction hereby avoided :  
+ 
+less any sum saved during the Indemnity Period in respect of such of the Working Expenses and Standing Charges 
+of the business as may cease or be reduced in consequence of the damage :  
+ 
+provided that if the Sum Insured by this item be less than the Annual Gross Revenue (or to a proportionately 
+increased multiple thereof where the Maximum Indemnity Period exceeds twelve months) the amount payable shall 
+be proportionately reduced.  
+ 
+DEFINITIONS 
+INDEMNITY 
+The period beginning with the occurrence of the damage and ending 
+PERIOD 
+not later than the Maximum Indemnity Period thereafter during which the results of the 
+business shall be affected in consequence of the damage.  
+ 
+MAXIMUM  
+_____________ months  
+INDEMNITY  
+PERIOD  
+ 
+GROSS  
+The money paid or payable to the Insured in respect of work done  and 
+REVENUE 
+services rendered in the course of the business at the premises, excluding.....  
+ 
+ 
+STANDARD GROSS REVENUE  
+) to which such adjustments  
+The Gross Revenue during  
+) shall be made as may be  
+that period in the twelve  
+) necessary to provide for  
+months immediately before  
+) the trend of the business  
+the date of the damage 
+) and for variation in or other  
+which corresponds with the  
+) circumstances affecting the  
+Indemnity Period 
+) business either before or  
+ 
+) after the damage or which would  
+ANNUAL GROSS REVENUE  
+) have affected the business had  
+The Gross Revenue during 
+) the damage not occurred,  
+twelve months immediately  
+) so that the figures thus adjusted  
+before the date of the damage  
+) shall represent as nearly as  
+ 
+) may be reasonably practicable  
+ 
+) the results which but for the  
+ 
+) damage would have been obtained  
+ 
+) during the relative period after  
+
+
+=== PAGE 28 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 27 
+ 
+) the damage.  
+ 
+Alternative Trading Clause. If during the Indemnity Period work shall be done or services shall be rendered elsewhere 
+than at the premises for the benefit of the business either by the insured or by others on their behalf the money paid or 
+payable in respect of such work or services shall be brought into account in arriving at the Revenue during the 
+Indemnity Period. 
+ 
+Premium Adjustment Clause. In the event of the Gross Revenue (or a proportionately increased multiple thereof 
+where the Maximum Indemnity Period exceeds twelve months) earned during the financial year most nearly 
+concurrent with any period of insurance as certified by the Insured's Professional Accountants being less than the 
+Sum Insured thereon a pro-rata return of premium not exceeding 50 per cent of the premium paid on such Sum 
+Insured for such period of insurance will be made in respect of the difference. If any damage shall have occurred 
+giving rise to a claim under this section, such return shall be made in respect only of so much of the said difference 
+as is not due to such damage.  
+ 
+This Premium Adjustment Clause is only valid for twelve (12) months from the date of expiry of the Policy. 
+ 
+ 
+5. 
+STANDING CHARGES ONLY WORDING  
+ 
+SPECIFICATION referred to in Policy No. ________________ in the name of ______________________ and 
+forming an intergral part of that policy.  
+ 
+Item No.  
+ 
+ 
+ 
+Sum Insured  
+1. On standing charges only  As specified in the Policy Schedule 
+ 
+ 
+THE INSURANCE UNDER ITEM NO. 1 is limited to loss in respect of INSURED STANDING CHARGES due to (a) 
+REDUCTION IN TURNOVER and (b) INCREASE IN COST OF WORKING and the amount payable as Indemnity 
+thereunder shall be:  
+ 
+(a) 
+IN RESPECT OF REDUCTION IN TURNOVER : The sum produced by applying the Rate Payable to the 
+amount by which the Turnover during the Indemnity Period shall in consequence of the damage fall short of 
+the Standard Turnover.  
+ 
+(b) 
+IN RESPECT OF INCREASE IN COST OF WORKING : The additional expenditure (subject to the 
+provisions of Uninsured Standing Charges Clause) necessarily and reasonably incurred for the sole purpose 
+of avoiding or diminishing the reduction in Turnover which but for that expenditure would have taken place 
+during the Indemnity Period in consequence of the damage but not exceeding the sum produced by 
+applying the Rate Payable to the amount of the reduction thereby avoided :  
+ 
+less any sum saved during the Indemnity Period in respect of such of the Insured Standing Charges as may cease 
+or be reduced in consequence of the damage:  
+ 
+provided that if the Sum Insured by this Item be less than the sum produced by applying the Rate Payable to the 
+Annual Turnover (or to a proportionately increased multiple thereof where the Maximum Indemnity Period exceeds 
+twelve months) the amount payable shall be proportionately reduced. 
+ 
+DEFINITIONS 
+ 
+NET PROFIT  
+The net trading profit (exclusive of all capital receipts and accretions and all outlay properly 
+chargeable to capital) resulting from the business of the Insured at the premises after due 
+provision has been made for all standing and other charges including depreciation but 
+before the deduction of any taxation chargeable on profits. 
+ 
+INSURED STANDING 
+The amount for  the  undermentioned Insured Standing Charges, or   if  the 
+CHARGES  
+business is showing a net trading loss, the amount of the said Insured Standing 
+Charges less such a proportion of any net trading loss as the amount of the Insured 
+Standing Charges bears to all the Standing Charges of the business.  
+ 
+LIST OF INSURED 
+STANDING  
+  
+As specified in the Policy Schedule   
+CHARGES 
+ 
+
+
+=== PAGE 29 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 28 
+  
+TURNOVER 
+The money paid or payable to the Insured for goods sold and delivered and for 
+services rendered in the course of the business at the premises.  
+ 
+INDEMNITY PERIOD  
+The period beginning with the occurrence of the damage and ending not later than the 
+Maximum Indemnity Period thereafter during which the results of the business shall be 
+affected in consequence of the damage.  
+ 
+MAXIMUM  
+__________________ months  
+INDEMNITY  
+PERIOD  
+ 
+RATE PAYABLE  
+) to which such adjustment shall  
+The percentage that the  
+) be made as may be necessary to  
+insured Standing Charges 
+) provide for the trend of the  
+bears to the Turnover during  
+) business and for variations in  
+the financial year immediately 
+) or special circumstances  
+before the date of damage.  
+) affecting the business either  
+ 
+) before or after the damage or  
+ANNUAL TURNOVER 
+) which would have affected the  
+The Turnover during the  
+) business had the damage not  
+twelve months immediately  
+) occurred, so that the figures  
+before the date of the damage. 
+) thus adjusted shall represent  
+ 
+) as nearly as may be reasonably  
+STANDARD TURNOVER  
+) practicable the results which  
+The Turnover during that 
+) but for the damage would have  
+period in the twelve months  
+) been obtained during the  
+immediately before the  
+) relative period after the  
+date of the damage which  
+) damage.  
+corresponds with the 
+)  
+Indemnity Period.  
+)  
+ 
+Alternative Trading Clause. If during the Indemnity Period goods shall be sold or services shall be rendered 
+elsewhere than at the premises for the benefit of the business either by the Insured or by others on their behalf the 
+money paid or payable in respect of such sales or services shall be brought into account in arriving at the turnover 
+during the Indemnity Period.  
+ 
+Uninsured Standing Charges Clause. If any standing charges of the business be not insured by this policy then in 
+computing the amount recoverable hereunder as Increase in Cost of Working that proportion only of the additional 
+expenditure shall be brought into account which the sum of the Net Profit and the Insured Standing Charges bears to 
+the sum of Net Profit and all the Standing 
+ 
+ 
+ 
+6. 
+GROSS RENTAL WORDING  
+ 
+SPECIFICATION referred to in Policy No. ________________ in the name of ______________________ and 
+forming an integral part of that policy.  
+ 
+Item No.  
+ 
+ 
+ 
+Sum Insured  
+1. On Gross Rental  
+ 
+As specified in the Policy Schedule 
+ 
+ 
+THE INSURANCE UNDER ITEM NO. 1 is limited to (a) LOSS OF GROSS RENTAL and (b) INCREASE IN COST 
+OF WORKING and the amount payable as indemnity thereunder shall be :  
+ 
+(a)  IN RESPECT OF LOSS OF GROSS RENTAL : The amount by which the Gross Rental during the Indemnity 
+Period shall in consequence of the damage fall short of the Standard Gross Rental  
+ 
+(b)  IN RESPECT OF INCREASE IN COST OF WORKING : The additional expenditure necessarily and 
+reasonably incurred for the sole purpose of avoiding or diminishing the Loss of Gross Rental which but for that 
+expenditure would have taken place during the Indemnity Period in consequence of the damage but not 
+exceeding the amount of the reduction in Gross Rental thereby avoided :  
+ 
+
+
+=== PAGE 30 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 29 
+less any sum saved during the Indemnity Period in respect of such of the expenses and charges payable out of 
+Gross Rental as may cease or be reduced in consequence of the damage :  
+provided that if the sum insured by this item be less than the Annual Gross Rental (or to a proportionately 
+increased multiple thereof where the Maximum Indemnity Period exceeds twelve months) the amount payable shall 
+be proportionately reduced.  
+ 
+DEFINITIONS 
+GROSS RENTAL  
+The money paid or payable to the insured by tenants in respect of rental of the 
+Premises.  
+ 
+INDEMNITY PERIOD  
+The period beginning with the occurrence of the damage and ending not later than the 
+Maximum Indemnity Period thereafter during which the Gross Rental shall be affected 
+in consequence of the damage.  
+ 
+MAXIMUM  
+________________________ months  
+INDEMNITY  
+PERIOD  
+ 
+STANDARD GROSS RENTAL 
+) to which such adjustments  
+The Gross Rental during the 
+) shall be made as may be  
+period corresponding with the  
+) necessary to provide for the  
+Indemnity Period in the twelve  
+) trend of the business and for  
+months immediately before the 
+) variations in or other  
+date of the damage which 
+) circumstances affecting  
+corresponds with the Indemnity  
+) business either before or  
+Period 
+ 
+ 
+ 
+) after the damage or which   
+ 
+  
+ 
+ 
+ 
+) would have affected 
+ANNUAL GROSS RENTAL  
+) business had the damage not  
+The Gross Rental during the 
+) occurred, so that the  
+twelve months immediately  
+) figures thus adjusted shall  
+before the date of the damage 
+) represent as nearly as may be  
+ 
+) reasonably practicable the  
+ 
+) results which but for the  
+ 
+) damage would have been  
+ 
+) obtained during the relative 
+ 
+) period after the damage.  
+ 
+Alternative Trading Clause. If during the Indemnity Period the business shall be conducted elsewhere than at the 
+premises the money paid or payable to the Insured in respect of rent at such other premises shall be brought into 
+account in arriving at the Gross Rental during the Indemnity Period.  
+ 
+Premium Adjustment Clause. In the event of one time the Gross Rental (or a proportionately increased multiple 
+thereof where the Maximum Indemnity Period exceeds twelve months) earned during the accounting period of 
+twelve months most nearly concurrent with any period of insurance as certified by the Insured's Auditors, being less 
+than the sum insured thereon a pro rata return of premium not exceeding 50 per cent of the premium paid on such 
+sum insured for such period of insurance will be made in respect of the difference. If any damage shall have 
+occurred giving rise to a claim under this section, such return shall be made in respect only of so much of the said 
+difference as is not due to such damage.  
+ 
+This Premium Adjustment Clause is only valid for twelve (12) months from the date of expiry of the Policy. 
+ 
+ 
+7. 
+100% WAGES WORDING 
+ 
+ 
+SPECIFICATION referred to in Policy No : __________ in the name of _______________ and forming an 
+integral part of that policy. 
+ 
+Item No. 
+ 
+ 
+ 
+ 
+Sum Insured 
+       1. On Wages 
+ 
+ 
+ 
+As specified in the Policy Schedule 
+ 
+ 
+THE INSURANCE ON ITEM NO. 1 is limited to loss in respect of WAGES due to (a) Reduction in Turnover and (b) 
+Increase in Cost of Working, and the amount payable as indemnity thereunder shall be:  
+ 
+
+
+=== PAGE 31 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 30 
+a)  
+IN RESPECT OF REDUCTION IN TURNOVER : The sum produced by applying the Rate of Wages to the 
+amount by which the turnover during the Indemnity Period shall in consequence of the damage fall short of 
+the Standard Turnover.  
+ 
+b) 
+IN RESPECT OF INCREASE IN COST OF WORKING : The additional expenditure (subject to the 
+provisions of Uninsured Standing Charges Clause) necessarily and reasonably incurred for the sole purpose 
+of avoiding or diminishing the reduction in turnover which but for that expenditure would have taken place 
+during the Indemnity Period in consequence of the damage but not exceeding the sum produced by 
+applying the Rate of Wages to the amount of the reduction thereby avoided:  
+ 
+less any sum saved during the Indemnity Period if Wages shall cease or be reduced in consequence of the damage. It 
+being understood that allowances to employees retained in the insured's services during the Indemnity Period while 
+unable to work in consequence of the damage shall be treated as wages paid 
+ 
+provided that if the sum insured by this item be less than the sum produced by applying the Rate of Wages to the 
+Annual Turnover (or to a proportionately increased multiple thereof where the Maximum Indemnity Period exceeds 
+twelve months) the amount payable shall be proportionately reduced. 
+ 
+ 
+ 
+DEFINITIONS 
+ 
+WAGES
+The remuneration (including EPF contribution,  SOCSO, bonuses, holiday pay  
+or other payments pertaining to payroll) of all employees other than those whose 
+remuneration is treated as salaries in the insured's book of account. 
+ 
+ 
+ 
+INDEMNITY
+PERIOD 
+ 
+The period beginning with the occurrence of the damage and ending not later 
+than the Maximum Indemnity Period thereafter during which the results of the 
+business shall be affected in consequence of the damage. 
+ 
+MAXIMUM 
+INDEMNITY 
+PERIOD 
+ 
+As specified in the Policy Schedule  
+ 
+RATE OF WAGES
+The Rate of Wages earned on the Turnover 
+during the financial year immediately before 
+the date of damage 
+ 
+ANNUAL TURNOVER 
+The Turnover during the twelve months 
+immediately before the date of the damage 
+ 
+STANDARD TURNOVER 
+The Turnover during that period in the twelve 
+months immediately before the date of the 
+damage 
+which 
+corresponds 
+with 
+the 
+Indemnity Period. 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+ 
+to which such adjustment shall be made as 
+may be necessary to provide for the trend of 
+the business and for variations in or other 
+circumstances affecting the business either 
+before or after the damage or which would 
+have affected the business had the damage 
+not occurred, so that the figures thus adjusted 
+shall represent as   nearly   as   may   be   
+reasonably practicable the results which but for 
+the damage would have been obtained during 
+the relative period after the damage. 
+ 
+ 
+Alternative Trading Clause.  If during the Indemnity Period goods shall be sold or services shall be 
+rendered elsewhere than at the premises for the benefit of the business either by the Insured or by others on 
+his behalf the money paid or payable in respect of such sales or services shall be brought into account in 
+arriving at the Turnover during the Indemnity Period. 
+ 
+ 
+Uninsured Standing Charges Clause.  In computing the amount recoverable hereunder as Increase In 
+Cost Of Working, that proportion only of the additional expenditure incurred in respect of the Indemnity Period 
+shall be brought into account which the amount of payroll bears to the sum of Net Profit and all the Standing 
+Charges and Wages. 
+ 
+ 
+
+
+=== PAGE 32 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 31 
+8.  
+INCREASED COST OF WORKING ONLY WORDING  
+ 
+SPECIFICATION referred to in Policy No : ___________________ in the name of ______________________ and 
+forming an integral part of the policy.  
+ 
+Item No  
+ 
+ 
+ 
+Sum Insured  
+1. On Increase in Cost Of Working Only  
+ 
+As specified in the Policy Schedule 
+ 
+ 
+The insurance under Item No. 1 is limited to Increase in Cost Of Working and the amount payable as Indemnity 
+thereunder shall be:  
+ 
+The additional expenditure necessarily and reasonably incurred by the insured during the Indemnity Period and in 
+consequence of the damage for the sole purpose of avoiding or diminishing a reduction in Turnover or for the 
+purpose of resuming or maintaining normal business operation:  
+less any sum saved during the Indemnity Period in respect of any revenue expenditure as may cease or be 
+reduced in consequence of the damage:  
+provided always that the liability of the Company shall not exceed:  
+ 
+a)  
+in respect of the first month of the Indemnity Period 40 per cent of the amount insured by this item :  
+b)  
+in respect of the second month of the Indemnity Period 20 per cent of the amount insured by this item:  
+c)  
+in respect of the subsequent months of the Indemnity Period 10 per cent of the amount insured by this item :  
+ 
+but if the expenditure for the first and second months of the Indemnity Period is less than the limits specified above 
+the unexhausted balance may be utilised by the insured in the subsequent months of the Indemnity Period.  
+ 
+DEFINITIONS 
+ 
+INDEMNITY PERIOD  
+The period beginning with the occurrence of the damage and ending not later than the 
+Maximum Indemnity Period thereafter during which the results of the business shall be 
+affected in consequence of the damage.  
+ 
+MAXIMUM  
+__________________ months  
+INDEMNITY  
+PERIOD  
+ 
+TURNOVER 
+The money (less discount allowed) paid or payable to the Insured for goods sold and 
+delivered for services rendered in course of the business at the premises. 
+ 
+ 
+9.  
+PRO-RATA WAGES WORDING  
+ 
+SPECIFICATION 
+referred 
+to 
+in 
+Policy 
+No 
+: 
+______________________ 
+in 
+the 
+name 
+of 
+_________________________ and forming an integral part of that policy.  
+ 
+Item No  
+Sum Insured  
+1. On Wages  
+ 
+As specified in the Policy Schedule 
+ 
+THE INSURANCE UNDER ITEM NO. 1 is limited to loss incurred by the insured by the payment of Wages for a 
+period beginning with the occurrence of the damage and ending not later than the Indemnity Period.  
+ 
+The amount payable as indemnity under this item shall be the actual amount which the insured shall pay as wages 
+for such period to employees whose services cannot in consequence of the damage be utilised by the insured at all 
+and an equitable part of the wages paid for such period to employees whose services cannot in consequence of 
+the damage be utilised by the insured to the full :  
+provided that if the sum insured by this item be less than the aggregate amount of the wages that would have been 
+paid during the Maximum Indemnity Period immediately following the damage had the damage not occurred the 
+amount payable shall be proportionately reduced.  
+ 
+DEFINITIONS 
+ 
+WAGES 
+The remuneration (including EPF contribution, SOCSO, bonuses, holiday pay or other 
+payments pertaining to payroll) of all employees other than those whose 
+remunerations is treated as salaries in the insured's book of accounts.  
+
+
+=== PAGE 33 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 32 
+INDEMNITY  
+The period beginning with the occurrence of the damage and ending not 
+PERIOD 
+later than the Maximum Indemnity Period thereafter during which the results of the 
+business shall be affected in consequence of the damage.  
+ 
+MAXIMUM  
+_______________ weeks 
+ 
+
+
+=== PAGE 34 ===
+ 
+FFFISR-002-Q-0115 
+ 
+Page 33 
+ 
+10.  
+ADDITIONAL INCREASE COSTS OF WORKING  
+ 
+The insurance under item No. _______________ is limited to such further additional expenditure beyond 
+that recoverable under clause (b) of item No. ___________ on gross profit and item No. __________ on 
+wages/payroll as the insured shall necessarily and reasonably incur during the indemnity period in 
+consequence of the damage for the purpose of avoiding or diminishing the reduction in turnover. 
+ 
+11.  
+AUDITORS' FEES CLAUSE  
+ 
+ 
+The insurance under item No. _______ of this Policy is limited to reasonable fees payable by the Insured 
+to their Auditors for producing and certifying any particulars or details contained in the Insured's books of 
+account or other business books or documents or such other proofs, information or evidence as may be 
+required by the Company under the terms of condition 6 of this 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IMPORTANT NOTICE: 
+1.  
+The following are channels available for complaints on insurance related matters. You can contact our 
+Complaint Unit for assistance at 03-7861 8400 or the following authorised bodies: 
+ 
+ 
+(a)  FINANCIAL MEDIATION BUREAU (FMB)  
+ 
+          (b)  LAMAN INFORMASI NASIHAT DAN  
+LEVEL 25, DATARAN KEWANGAN DARUL TAKAFUL  
+ 
+KHIDMAT (LINK) 
+NO. 4 JALAN SULTAN SULAIMAN  
+ 
+ 
+ 
+BANK NEGARA MALAYSIA 
+50000 KUALA LUMPUR  
+ 
+ 
+ 
+ 
+P. O. BOX 10922 
+TEL: 03-2272 2811   
+ 
+ 
+ 
+ 
+50929 KUALA LUMPUR 
+FAX: 03-2274 5752   
+ 
+ 
+ 
+ 
+TEL: 1-300-88-5465 (LINK) 
+FAX: 03-2174 1515 
